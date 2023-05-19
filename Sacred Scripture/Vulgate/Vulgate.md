@@ -1,0 +1,7 @@
+# Vulgate
+
+The Vulgate (/ˈvʌlɡeɪt,  -ɡət/; also called  _Biblia Vulgata_  (Bible in common tongue),  Latin: [ˈbɪbli.a wʊlˈɡaːta]), sometimes referred to as the Latin Vulgate, is a late-4th-century Latin translation of the Bible.
+
+The Vulgate is largely the work of Jerome who, in 382, had been commissioned by Pope Damasus I to revise the _Vetus Latina_ Gospels used by the Roman Church. Later, on his own initiative, Jerome extended this work of revision and translation to include most of the books of the Bible. The Vulgate became progressively adopted as the Bible text within the Western Church. Over succeeding centuries, it eventually eclipsed the  _Vetus Latina_. By the 13th century it had taken over from the former version the designation  _versio vulgata_ (the "version commonly used") or _vulgata_ for short. The Vulgate also contains some _Vetus Latina_ translations that Jerome did not work on.
+
+The Vulgate was to become the Catholic Church's officially promulgated Latin version of the Bible as the Sixtine Vulgate (1590), then as the Clementine Vulgate (1592), and then as the  _Nova Vulgata_  (1979). The Vulgate is still currently used in the Latin Church. The Catholic Church affirmed the Vulgate as its official Latin Bible at the Council of Trent (1545–1563), though there was no authoritative edition at that time. The Clementine edition of the Vulgate became the standard Bible text of the Roman Rite of the Catholic Church, and remained so until 1979 when the _Nova Vulgata_ was promulgated.
