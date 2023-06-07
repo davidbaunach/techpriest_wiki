@@ -1,4 +1,6 @@
 # Chapter 1
+| | [Next Chapter](Chapter%2002.md) |
+| --- | --- |
 1. In principio creavit Deus cælum et terram.
 2. Terra autem erat inanis et vacua, et tenebræ erant super faciem abyssi: et spiritus Dei ferebatur super aquas.
 3. Dixitque Deus: Fiat lux. Et facta est lux.
@@ -31,3 +33,6 @@ Et vidit Deus quod esset bonum,
 29. Dixitque Deus: Ecce dedi vobis omnem herbam afferentem semen super terram, et universa ligna quæ habent in semetipsis sementem generis sui, ut sint vobis in escam:
 30. et cunctis animantibus terræ, omnique volucri cæli, et universis quæ moventur in terra, et in quibus est anima vivens, ut habeant ad vescendum. Et factum est ita.
 31. Viditque Deus cuncta quæ fecerat, et erant valde bona. Et factum est vespere et mane, dies sextus.
+
+| | [Next Chapter](Chapter%2002.md) |
+| --- | --- |

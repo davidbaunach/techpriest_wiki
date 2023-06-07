@@ -1,4 +1,6 @@
 # Chapter 3
+| [Previous Chapter](Chapter%2002.md)| [Next Chapter](Chapter%2004.md) |
+| --- | --- |
 1. Sed et serpens erat callidior cunctis animantibus terræ quæ fecerat Dominus Deus. Qui dixit ad mulierem: Cur præcepit vobis Deus ut non comederetis de omni ligno paradisi?
 2. Cui respondit mulier: De fructu lignorum, quæ sunt in paradiso, vescimur:
 3. de fructu vero ligni quod est in medio paradisi, præcepit nobis Deus ne comederemus, et ne tangeremus illud, ne forte moriamur.
@@ -28,3 +30,6 @@ et tu insidiaberis calcaneo ejus.
 22. et ait: Ecce Adam quasi unus ex nobis factus est, sciens bonum et malum: nunc ergo ne forte mittat manum suam, et sumat etiam de ligno vitæ, et comedat, et vivat in æternum.
 23. Et emisit eum Dominus Deus de paradiso voluptatis, ut operaretur terram de qua sumptus est.
 24. Ejecitque Adam: et collocavit ante paradisum voluptatis cherubim, et flammeum gladium, atque versatilem, ad custodiendam viam ligni vitæ.
+
+| [Previous Chapter](Chapter%2002.md)| [Next Chapter](Chapter%2004.md) |
+| --- | --- |
