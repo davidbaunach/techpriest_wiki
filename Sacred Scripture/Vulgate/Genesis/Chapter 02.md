@@ -1,4 +1,6 @@
 # Chapter 2
+| [Previous Chapter](Chapter%2001.md)| [Next Chapter](Chapter%2003.md) |
+| --- | --- |
 1. Igitur perfecti sunt cæli et terra, et omnis ornatus eorum.
 2. Complevitque Deus die septimo opus suum quod fecerat: et requievit die septimo ab universo opere quod patrarat.
 3. Et benedixit diei septimo, et sanctificavit illum, quia in ipso cessaverat ab omni opere suo quod creavit Deus ut faceret.  
@@ -24,3 +26,6 @@
 23. Dixitque Adam: Hoc nunc os ex ossibus meis, et caro de carne mea: hæc vocabitur Virago, quoniam de viro sumpta est.
 24. Quam ob rem relinquet homo patrem suum, et matrem, et adhærebit uxori suæ: et erunt duo in carne una.
 25. Erat autem uterque nudus, Adam scilicet et uxor ejus: et non erubescebant.
+
+| [Previous Chapter](Chapter%2001.md)| [Next Chapter](Chapter%2003.md) |
+| --- | --- |
