@@ -1,4 +1,6 @@
 # Chapter 19
+| [Previous Chapter](Chapter%2018.md)| [Next Chapter](Chapter%2020.md) |
+| --- | --- |
 1. Veneruntque duo angeli Sodomam vespere, sedente Lot in foribus civitatis. Qui cum vidisset eos, surrexit et ivit obviam eis adoravitque pronus in terram 
 2. et dixit: “Obsecro, domini mei, declinate in domum pueri vestri et pernoctate; lavate pedes vestros et mane proficiscemini in viam vestram”. Qui dixerunt: “Minime, sed in platea pernoctabimus”. 
 3. Compulit illos oppido, et diverterunt ad eum. Ingressisque domum illius fecit convivium et coxit azyma, et comederunt.
@@ -37,3 +39,6 @@
 36. Conceperunt ergo duae filiae Lot de patre suo.
 37. Peperitque maior filium et vocavit nomen eius Moab; ipse est pater Moabitarum usque in praesentem diem.
 38. Minor quoque peperit filium et vocavit nomen eius Benammi (id est Filius populi mei); ipse est pater Ammonitarum usque hodie.
+
+| [Previous Chapter](Chapter%2018.md)| [Next Chapter](Chapter%2020.md) |
+| --- | --- |

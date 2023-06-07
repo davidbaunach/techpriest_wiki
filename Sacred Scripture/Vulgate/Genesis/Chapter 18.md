@@ -1,4 +1,6 @@
 # Chapter 18
+| [Previous Chapter](Chapter%2017.md)| [Next Chapter](Chapter%2019.md) |
+| --- | --- |
 1. Apparuit autem ei Dominus iuxta Quercus Mambre sedenti in ostio tabernaculi sui in ipso fervore diei.
 2. Cumque elevasset oculos, apparuerunt ei tres viri stantes prope eum. Quos cum vidisset, cucurrit in occursum eorum de ostio tabernaculi et adoravit in terram
 3. et dixit: “Domine mi, si inveni gratiam in oculis tuis, ne transeas servum tuum;
@@ -32,3 +34,6 @@
 31. “Ecce, ait, coepi loqui ad Dominum meum. Si forte inventi fuerint ibi viginti? ”. Dixit: “Non interficiam propter viginti”. 
 32. “Obsecro, inquit, ne irascatur Dominus meus, si loquar adhuc semel. Si forte inventi fuerint ibi decem?”. Dixit: “Non delebo propter decem”.
 33. Abiit Dominus, postquam cessavit loqui ad Abraham; et ille reversus est in locum suum.
+
+| [Previous Chapter](Chapter%2017.md)| [Next Chapter](Chapter%2019.md) |
+| --- | --- |

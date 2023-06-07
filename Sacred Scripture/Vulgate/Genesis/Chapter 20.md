@@ -1,4 +1,6 @@
 # Chapter 20
+| [Previous Chapter](Chapter%2019.md)| [Next Chapter](Chapter%2021.md) |
+| --- | --- |
 1. Profectus inde Abraham in terram Nageb, habitavit inter Cades et Sur et peregrinatus est in Geraris.
 2. Dixitque de Sara uxore sua: “Soror mea est”. Misit ergo Abimelech rex Gerarae et tulit eam.
 3. Venit autem Deus ad Abimelech per somnium nocte et ait illi: “En morieris propter mulierem, quam tulisti; habet enim virum”.
@@ -17,3 +19,6 @@
 16. Sarae autem dixit: “Ecce mille argenteos dedi fratri tuo; ecce hoc erit tibi in velamen oculorum ad omnes, qui tecum sunt, et apud omnes iustificaberis”.
 17. Orante autem Abraham, sanavit Deus Abimelech et uxorem ancillasque eius et pepererunt;
 18. concluserat enim Dominus omnem vulvam domus Abimelech propter Saram uxorem Abraham.
+
+| [Previous Chapter](Chapter%2019.md)| [Next Chapter](Chapter%2021.md) |
+| --- | --- |
