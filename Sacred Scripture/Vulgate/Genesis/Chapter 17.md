@@ -1,4 +1,6 @@
 # Chapter 17
+| [Previous Chapter](Chapter%2016.md)| [Next Chapter](Chapter%2018.md) |
+| --- | --- |
 1. Postquam Abram nonaginta et novem annorum factus est, apparuit ei Dominus dixitque ad eum: “Ego Deus omnipotens, ambula coram me et esto perfectus.
 2. Ponamque foedus meum inter me et te et multiplicabo te vehementer nimis”.
 3. Cecidit Abram pronus in faciem.
@@ -25,3 +27,6 @@
 25. et Ismael filius eius tredecim annos impleverat tempore circumcisionis suae.
 26. Eadem die circumcisus est Abraham et Ismael filius eius;
 27. et omnes viri domus illius, tam vernaculi quam empticii ex alienigenis, circumcisi sunt cum eo.
+
+| [Previous Chapter](Chapter%2016.md)| [Next Chapter](Chapter%2018.md) |
+| --- | --- |

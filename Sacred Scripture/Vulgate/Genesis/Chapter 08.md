@@ -1,4 +1,6 @@
 # Chapter 8
+| [Previous Chapter](Chapter%2007.md)| [Next Chapter](Chapter%2009.md) |
+| --- | --- |
 1. Recordatus autem Deus Noe cunctorumque animantium et omnium iumentorum, quae erant cum eo in arca, adduxit spiritum super terram, et imminutae sunt aquae.  
 2. Et clausi sunt fontes abyssi et cataractae caeli, et prohibitae sunt pluviae de caelo.  
 3. Reversaeque sunt aquae de terra euntes et redeuntes et coeperunt minui post centum quinquaginta dies.  
@@ -21,3 +23,6 @@
 20. Aedificavit autem Noe altare Domino; et tollens de cunctis pecoribus mundis et volucribus mundis obtulit holocausta super altare.  
 21. Odoratusque est Dominus odorem suavitatis et locutus est Dominus ad cor suum: “Nequaquam ultra maledicam terrae propter homines, quia cogitatio humani cordis in malum prona est ab adulescentia sua. Non igitur ultra percutiam omnem animam viventem, sicut feci.  
 22. Cunctis diebus terrae, sementis et messis, frigus et aestus, aestas et hiems, dies et nox non requiescent”.
+
+| [Previous Chapter](Chapter%2007.md)| [Next Chapter](Chapter%2009.md) |
+| --- | --- |

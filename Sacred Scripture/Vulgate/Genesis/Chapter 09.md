@@ -1,4 +1,6 @@
 # Chapter 9
+| [Previous Chapter](Chapter%2008.md)| [Next Chapter](Chapter%2010.md) |
+| --- | --- |
 1. Benedixitque Deus Noe et filiis eius et dixit ad eos: “Crescite et multiplicamini et implete terram.  
 2. Et terror vester ac tremor sit super cuncta animalia terrae et super omnes volucres caeli cum universis, quae moventur super terram; omnes pisces maris manui vestrae traditi sunt.  
 3. Omne, quod movetur et vivit, erit vobis in cibum; quasi holera virentia tradidi vobis omnia,  
@@ -37,3 +39,6 @@ et habitet in tabernaculis Sem,
 sitque Chanaan servus eius”.  
 28. Vixit autem Noe post diluvium trecentis quinquaginta annis.  
 29. Et impleti sunt omnes dies eius nongentorum quinquaginta annorum, et mortuus est.
+
+| [Previous Chapter](Chapter%2008.md)| [Next Chapter](Chapter%2010.md) |
+| --- | --- |

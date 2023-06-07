@@ -1,4 +1,6 @@
 # Chapter 13
+| [Previous Chapter](Chapter%2012.md)| [Next Chapter](Chapter%2014.md) |
+| --- | --- |
 1. Ascendit ergo Abram de Aegypto ipse et uxor eius et omnia, quae habebat, et Lot cum eo ad Nageb.  
 2. Abram autem erat dives valde in pecoribus, argento et auro.  
 3. Et profectus est de mansione in mansionem a Nageb in Bethel usque ad locum, ubi prius fixerat tabernaculum inter Bethel et Hai,  
@@ -17,3 +19,6 @@
 16. faciamque semen tuum sicut pulverem terrae: si quis potest hominum numerare pulverem terrae, semen quoque tuum numerare poterit.  
 17. Surge et perambula terram in longitudine et in latitudine sua, quia tibi daturus sum eam”.  
 18. Movens igitur tabernaculum suum, Abram venit et habitavit iuxta Quercus Mambre, quae sunt in Hebron, aedificavitque ibi altare Domino.
+
+| [Previous Chapter](Chapter%2012.md)| [Next Chapter](Chapter%2014.md) |
+| --- | --- |

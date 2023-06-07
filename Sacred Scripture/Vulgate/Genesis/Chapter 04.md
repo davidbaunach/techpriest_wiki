@@ -1,4 +1,6 @@
 # Chapter 4
+| [Previous Chapter](Chapter%2003.md)| [Next Chapter](Chapter%2005.md) |
+| --- | --- |
 1. Adam vero cognovit Evam uxorem suam, quae concepit et peperit Cain dicens: “Acquisivi virum per Dominum”.  
 2. Rursusque peperit fratrem eius Abel. Et fuit Abel pastor ovium et Cain agricola.  
 3. Factum est autem post aliquot dies ut offerret Cain de fructibus agri munus Domino.  
@@ -28,3 +30,6 @@ et adulescentulum pro livore meo;
 24. septuplum ultio dabitur de Cain, de Lamech vero septuagies septies”.  
 25. Cognovit quoque Adam uxorem suam, et peperit filium vocavitque nomen eius Seth dicens: “Posuit mihi Deus semen aliud pro Abel, quem occidit Cain”.  
 26. Sed et Seth natus est filius, quem vocavit Enos. Tunc coeperunt invocare nomen Domini.
+
+| [Previous Chapter](Chapter%2003.md)| [Next Chapter](Chapter%2005.md) |
+| --- | --- |

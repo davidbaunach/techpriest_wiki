@@ -1,4 +1,6 @@
 # Chapter 14
+| [Previous Chapter](Chapter%2013.md)| [Next Chapter](Chapter%2015.md) |
+| --- | --- |
 1. Factum est autem in illo tempore, ut Amraphel rex Sennaar et Arioch rex Ellasar et Chodorlahomor rex Elam et Thadal rex gentium  
 2. inirent bellum contra Bara regem Sodomae et contra Bersa regem Gomorrae et contra Sennaab regem Adamae et contra Semeber regem Seboim contraque regem Belae; ipsa est Segor.  
 3. Omnes hi convenerunt in vallem Siddim, quae nunc est mare Salis.  
@@ -26,3 +28,6 @@ Et dedit ei decimas ex omnibus.
 22. Qui respondit ei: “Levo manum meam ad Dominum, Deum excelsum, creatorem caeli et terrae,  
 23. a filo subteminis usque ad corrigiam caligae non accipiam ex omnibus, quae tua sunt, ne dicas: "Ego ditavi Abram";  
 24. exceptis his, quae comederunt iuvenes, et partibus virorum, qui venerunt mecum, Aner, Eschol et Mambre: isti accipient partes suas”.
+
+| [Previous Chapter](Chapter%2013.md)| [Next Chapter](Chapter%2015.md) |
+| --- | --- |

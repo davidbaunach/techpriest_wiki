@@ -1,4 +1,6 @@
 # Chapter 15
+| [Previous Chapter](Chapter%2014.md)| [Next Chapter](Chapter%2016.md) |
+| --- | --- |
 1. His itaque transactis, factus est sermo Domini ad Abram per visionem dicens: “Noli timere, Abram! Ego protector tuus sum, et merces tua magna erit nimis”.
 2. Dixitque Abram: “Domine Deus, quid dabis mihi? Ego vadam absque liberis, et heres domus meae erit Damascenus Eliezer ”.
 3. Addiditque Abram: “En mihi non dedisti semen, et ecce vernaculus meus heres meus erit”.
@@ -20,3 +22,6 @@
 19. Cinaeos et Cenezaeos, Cedmonaeos
 20. et Hetthaeos et Pherezaeos, Raphaim quoque
 21. et Amorraeos et Chananaeos et Gergesaeos et Iebusaeos”.
+
+| [Previous Chapter](Chapter%2014.md)| [Next Chapter](Chapter%2016.md) |
+| --- | --- |

@@ -1,4 +1,6 @@
 # Chapter 12
+| [Previous Chapter](Chapter%2011.md)| [Next Chapter](Chapter%2013.md) |
+| --- | --- |
 1. Dixit autem Dominus ad Abram:  
 “Egredere de terra tua et de cognatione tua  
 et de domo patris tui  
@@ -28,3 +30,6 @@ universae cognationes terrae!”.
 18. Vocavitque pharao Abram et dixit ei: “Quidnam est hoc quod fecisti mihi? Quare non indicasti mihi quod uxor tua esset?  
 19. Quam ob causam dixisti esse sororem tuam, ut tollerem eam mihi in uxorem? Nunc igitur, ecce coniux tua: accipe eam et vade!”.  
 20. Praecepitque pharao super Abram viris; et deduxerunt eum et uxorem illius et omnia, quae habebat.
+
+| [Previous Chapter](Chapter%2011.md)| [Next Chapter](Chapter%2013.md) |
+| --- | --- |

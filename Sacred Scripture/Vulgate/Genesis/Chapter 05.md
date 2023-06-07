@@ -1,4 +1,6 @@
 # Chapter 5
+| [Previous Chapter](Chapter%2004.md)| [Next Chapter](Chapter%2006.md) |
+| --- | --- |
 1. Hic est liber generationis Adam. In die qua creavit Deus hominem, ad similitudinem Dei fecit illum.  
 2. Masculum et feminam creavit eos et benedixit illis; et vocavit nomen eorum Adam in die, quo creati sunt.  
 3. Vixit autem Adam centum triginta annis et genuit ad similitudinem et imaginem suam vocavitque nomen eius Seth.  
@@ -31,3 +33,6 @@
 30. Vixitque Lamech, postquam genuit Noe, quingentos nonaginta quinque annos et genuit filios et filias.  
 31. Et facti sunt omnes dies Lamech septingenti septuaginta septem anni, et mortuus est.  
 32. Noe vero, cum quingentorum esset annorum, genuit Sem, Cham et Iapheth.
+
+| [Previous Chapter](Chapter%2004.md)| [Next Chapter](Chapter%2006.md) |
+| --- | --- |

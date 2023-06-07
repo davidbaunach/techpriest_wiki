@@ -1,4 +1,6 @@
 # Chapter 6
+| [Previous Chapter](Chapter%2005.md)| [Next Chapter](Chapter%2007.md) |
+| --- | --- |
 1. Cumque coepissent homines multiplicari super terram et filias procreassent,  
 2. videntes filii Dei filias hominum quod essent pulchrae, acceperunt sibi uxores ex omnibus, quas elegerant.  
 3. Dixitque Deus: “Non permanebit spiritus meus in homine in aeternum, quia caro est; eruntque dies illius centum viginti annorum”.  
@@ -21,3 +23,6 @@
 20. De volucribus iuxta genus suum et de iumentis in genere suo et ex omni reptili terrae secundum genus suum: bina de omnibus ingredientur ad te, ut possint vivere.  
 21. Tu autem tolle tecum ex omnibus escis, quae mandi possunt, et comportabis apud te; et erunt tam tibi quam illis in cibum”.  
 22. Fecit ergo Noe omnia, quae praeceperat illi Deus; sic fecit.
+
+| [Previous Chapter](Chapter%2005.md)| [Next Chapter](Chapter%2007.md) |
+| --- | --- |

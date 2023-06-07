@@ -1,4 +1,6 @@
 # Chapter 16
+| [Previous Chapter](Chapter%2015.md)| [Next Chapter](Chapter%2017.md) |
+| --- | --- |
 1. Sarai autem uxor Abram non genuerat ei liberos; sed habens ancillam Aegyptiam nomine Agar,
 2. dixit marito suo: “Ecce conclusit me Dominus, ne parerem; ingredere ad ancillam meam, si forte saltem ex illa suscipiam filios”. Cumque ille acquiesceret deprecanti,
 3. tulit Agar Aegyptiam ancillam suam post annos decem quam habitare coeperant in terra Chanaan, et dedit eam viro suo uxorem.
@@ -21,3 +23,6 @@ et e regione universorum fratrum suorum figet tabernacula ”.
 14. Propterea appellatur puteus ille Lahairoi (id est Viventis et Videntis me); ipse est inter Cades et Barad.
 15. Peperitque Agar Abrae filium; qui vocavit nomen filii sui, quem pepererat Agar, Ismael. 
 16. Octoginta et sex annorum erat Abram, quando peperit ei Agar Ismaelem.
+
+| [Previous Chapter](Chapter%2015.md)| [Next Chapter](Chapter%2017.md) |
+| --- | --- |

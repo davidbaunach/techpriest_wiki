@@ -1,4 +1,6 @@
 # Chapter 7
+| [Previous Chapter](Chapter%2006.md)| [Next Chapter](Chapter%2008.md) |
+| --- | --- |
 1. Dixitque Dominus ad Noe: “Ingredere tu et omnis domus tua arcam; te enim vidi iustum coram me in generatione hac.  
 2. Ex omnibus pecoribus mundis tolle septena septena, masculum et feminam; de pecoribus vero non mundis duo duo, masculum et feminam.  
 3. Sed et de volatilibus caeli septena septena, masculum et feminam, ut salvetur semen super faciem universae terrae.  
@@ -23,3 +25,6 @@
 22. cuncta, in quibus spiraculum vitae in terra, mortua sunt.  
 23. Et delevit omnem substantiam, quae erat super terram, ab homine usque ad pecus, usque ad reptile et usque ad volucres caeli; et deleta sunt de terra. Remansit autem solus Noe et qui cum eo erant in arca.  
 24. Obtinueruntque aquae terram centum quinquaginta diebus.
+
+| [Previous Chapter](Chapter%2006.md)| [Next Chapter](Chapter%2008.md) |
+| --- | --- |

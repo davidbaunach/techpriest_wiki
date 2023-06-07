@@ -1,4 +1,6 @@
 # Chapter 11
+| [Previous Chapter](Chapter%2010.md)| [Next Chapter](Chapter%2012.md) |
+| --- | --- |
 1. Erat autem universa terra labii unius et sermonum eorundem.  
 2. Cumque proficiscerentur de oriente, invenerunt campum in terra Sennaar et habitaverunt in eo.  
 3. Dixitque alter ad proximum suum: “Venite, faciamus lateres et coquamus eos igni”. Habueruntque lateres pro saxis et bitumen pro caemento.  
@@ -31,3 +33,6 @@
 30. Erat autem Sarai sterilis nec habebat liberos.  
 31. Tulitque Thare Abram filium suum et Lot filium Aran filium filii sui et Sarai nurum suam, uxorem Abram filii sui, et eduxit eos de Ur Chaldaeorum, ut irent in terram Chanaan. Veneruntque usque Charran et habitaverunt ibi.  
 32. Et facti sunt dies Thare ducentorum quinque annorum, et mortuus est in Charran.
+
+| [Previous Chapter](Chapter%2010.md)| [Next Chapter](Chapter%2012.md) |
+| --- | --- |

@@ -1,4 +1,6 @@
 # Chapter 10
+| [Previous Chapter](Chapter%2009.md)| [Next Chapter](Chapter%2011.md) |
+| --- | --- |
 1. Hae sunt generationes filiorum Noe, Sem, Cham et Iapheth; natique sunt eis filii post diluvium.  
 2. Filii Iapheth: Gomer et Magog et Madai et Iavan et Thubal et Mosoch et Thiras.  
 3. Porro filii Gomer: Aschenez et Riphath et Thogorma.  
@@ -31,3 +33,6 @@
 30. et facta est habitatio eorum de Messa pergentibus usque Sephar montem orientalem.  
 31. Isti filii Sem secundum cognationes et linguas et regiones in gentibus suis.  
 32. Hae familiae filiorum Noe iuxta generationes et nationes suas. Ab his divisae sunt gentes in terra post diluvium.
+
+| [Previous Chapter](Chapter%2009.md)| [Next Chapter](Chapter%2011.md) |
+| --- | --- |
