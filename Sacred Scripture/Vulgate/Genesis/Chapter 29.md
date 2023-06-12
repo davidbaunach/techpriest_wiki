@@ -1,4 +1,6 @@
 # Chapter 29
+| [Previous Chapter](Chapter%2028.md)| [Next Chapter](Chapter%2030.md) |
+| --- | --- |
 1. Profectus ergo Iacob venit in terram orientalium.
 2. Et vidit puteum in agro, tres quoque greges ovium accubantes iuxta eum; nam ex illo adaquabantur pecora, et os eius grandi lapide claudebatur.
 3. Morisque erat, ut, cunctis ovibus congregatis, devolverent lapidem et, refectis gregibus, rursum super os putei ponerent.
@@ -36,3 +38,6 @@ Facto mane, vidit, et ecce erat Lia.
 33. Rursumque concepit et peperit filium et ait: “ Quoniam audivit me Dominus haberi contemptui, dedit etiam istum mihi ”; vocavitque nomen illius Simeon.
 34. Concepit tertio et genuit alium filium dixitque: “ Nunc quoque copulabitur mihi maritus meus, eo quod pepererim ei tres filios ”; et idcirco appellavit nomen eius Levi.
 35. Quarto concepit et peperit filium et ait: “ Modo confitebor Domino ”; et ob hoc vocavit eum Iudam. Cessavitque parere.
+
+| [Previous Chapter](Chapter%2028.md)| [Next Chapter](Chapter%2030.md) |
+| --- | --- |

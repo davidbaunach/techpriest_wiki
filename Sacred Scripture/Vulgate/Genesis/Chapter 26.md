@@ -1,4 +1,6 @@
 # Chapter 26
+| [Previous Chapter](Chapter%2025.md)| [Next Chapter](Chapter%2027.md) |
+| --- | --- |
 1. Orta autem fame super terram post eam sterilitatem, quae acciderat in diebus Abraham, abiit Isaac ad Abimelech regem Philisthim in Gerara.
 2. Apparuitque ei Dominus et ait: “Ne descendas in Aegyptum, sed habita in terra, quam dixero tibi,
 3. et peregrinare in ea; eroque tecum et benedicam tibi. Tibi enim et semini tuo dabo universas regiones has complens iuramentum, quod spopondi Abraham patri tuo,
@@ -40,3 +42,6 @@ propter servum meum Abraham ”.
 33. Unde appellavit eum Sabee (quod significat Abundantiam); et nomen urbi impositum est Bersabee usque in praesentem diem.
 34. Esau vero quadragenarius duxit uxores Iudith filiam Beeri Hetthaei et Basemath filiam Elon Hetthaei.
 35. Quae ambae offenderant animum Isaac et Rebeccae.
+
+| [Previous Chapter](Chapter%2025.md)| [Next Chapter](Chapter%2027.md) |
+| --- | --- |

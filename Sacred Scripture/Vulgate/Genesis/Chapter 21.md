@@ -1,4 +1,6 @@
 # Chapter 21
+| [Previous Chapter](Chapter%2020.md)| [Next Chapter](Chapter%2022.md) |
+| --- | --- |
 1. Visitavit autem Dominus Saram, sicut promiserat, et implevit Sarae, quae locutus est;
 2. concepitque et peperit Abrahae filium in senectute eius tempore, quo praedixerat ei Deus.
 3. Vocavitque Abraham nomen filii sui, quem genuit ei Sara, Isaac
@@ -38,3 +40,6 @@ iam seni?”.
 31. Idcirco vocatus est locus ille Bersabee, quia ibi uterque iuraverunt.
 32. Et inierunt foedus in Bersabee.
 33. Surrexit autem Abimelech et Phicol princeps militiae eius reversique sunt in terram Philisthim. Abraham vero plantavit nemus in Bersabee et invocavit ibi nomen Domini, Dei aeterni. 34 Et fuit colonus in terra Philisthim diebus multis.
+
+| [Previous Chapter](Chapter%2020.md)| [Next Chapter](Chapter%2022.md) |
+| --- | --- |

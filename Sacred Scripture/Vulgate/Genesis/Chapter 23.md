@@ -1,4 +1,6 @@
 # Chapter 23
+| [Previous Chapter](Chapter%2022.md)| [Next Chapter](Chapter%2024.md) |
+| --- | --- |
 1. Vixit autem Sara centum viginti septem annis
 2. et mortua est in Cariatharbe, quae est Hebron, in terra Chanaan; venitque Abraham, ut plangeret et fleret eam.
 3. Cumque surrexisset ab officio funeris, locutus est ad filios Heth dicens:
@@ -19,3 +21,6 @@
 18. Abrahae in possessionem, videntibus filiis Heth cunctis, qui intrabant portam civitatis illius.
 19. Deinde sepelivit Abraham Saram uxorem suam in spelunca agri Machpela, qui respiciebat Mambre ­ haec est Hebron ­ in terra Chanaan.
 20. Et confirmatus est ager et antrum, quod erat in eo, Abrahae in possessionem sepulcri a filiis Heth.
+
+| [Previous Chapter](Chapter%2022.md)| [Next Chapter](Chapter%2024.md) |
+| --- | --- |

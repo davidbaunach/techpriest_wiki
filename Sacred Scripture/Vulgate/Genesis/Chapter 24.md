@@ -1,4 +1,6 @@
 # Chapter 24
+| [Previous Chapter](Chapter%2023.md)| [Next Chapter](Chapter%2025.md) |
+| --- | --- |
 1. Erat autem Abraham senex dierumque multorum; et Dominus in cunctis benedixerat ei.
 2. Dixitque Abraham ad servum seniorem domus suae, qui praeerat omnibus, quae habebat: “Pone manum tuam subter femur meum,
 3. ut adiurem te per Dominum, Deum caeli et Deum terrae, ut non accipias uxorem filio meo de filiabus Chananaeorum, inter quos habito;
@@ -72,3 +74,6 @@ portas inimicorum suorum!”.
 65. et ait ad puerum: “Quis est ille homo, qui venit per agrum in occursum nobis?”. Dixitque ei: “Ipse est dominus meus”. At illa tollens cito velum operuit se.
 66. Servus autem cuncta, quae gesserat, narravit Isaac;
 67. qui introduxit eam in tabernaculum Sarae matris suae et accepit Rebeccam uxorem; et dilexit eam et consolatus est a morte matris suae.
+
+| [Previous Chapter](Chapter%2023.md)| [Next Chapter](Chapter%2025.md) |
+| --- | --- |

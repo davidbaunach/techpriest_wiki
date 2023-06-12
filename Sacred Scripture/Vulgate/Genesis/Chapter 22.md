@@ -1,4 +1,6 @@
 # Chapter 22
+| [Previous Chapter](Chapter%2021.md)| [Next Chapter](Chapter%2023.md) |
+| --- | --- |
 1. Quae postquam gesta sunt, tentavit Deus Abraham et dixit ad eum: “Abraham”. Ille respondit: “Adsum”.
 2. Ait: “Tolle filium tuum unigenitum, quem diligis, Isaac et vade in terram Moria; atque offer eum ibi in holocaustum super unum montium, quem monstravero tibi”.
 3. Igitur Abraham de nocte consurgens stravit asinum suum ducens secum duos iuvenes suos et Isaac filium suum. Cumque concidisset ligna in holocaustum, surrexit et abiit ad locum, quem praeceperat ei Deus.
@@ -24,3 +26,6 @@ Pergebant ambo pariter;
 22. et Cased et Azau, Pheldas quoque et Iedlaph
 23. ac Bathuel, de quo nata est Rebecca. Octo istos genuit Melcha Nachor fratri Abrahae. 
 24. Concubina vero illius, nomine Reuma, peperit Tabee et Gaham et Tahas et Maacha.
+
+| [Previous Chapter](Chapter%2021.md)| [Next Chapter](Chapter%2023.md) |
+| --- | --- |

@@ -1,4 +1,6 @@
 # Chapter 28
+| [Previous Chapter](Chapter%2027.md)| [Next Chapter](Chapter%2029.md) |
+| --- | --- |
 1. Vocavit itaque Isaac Iacob et benedixit eum praecepit que ei dicens: “ Noli accipere coniugem de filiabus Chanaan;
 2. surge, vade in Paddanaram ad domum Bathuel patris matris tuae et accipe tibi inde uxorem de filiabus Laban avunculi tui.
 3. Deus autem omnipotens benedicat tibi et crescere te faciat atque multiplicet, ut sis in multitudinem populorum;
@@ -21,3 +23,6 @@
 20. Vovit Iacob etiam votum dicens: “ Si fuerit Deus mecum et custodierit me in via hac, per quam ambulo, et dederit mihi panem ad vescendum et vestimentum ad induendum,
 21. reversusque fuero prospere ad domum patris mei, erit mihi Dominus in Deum,
 22. et lapis iste, quem erexi in titulum, erit domus Dei; cunctorumque, quae dederis mihi, decimas offeram tibi ”.
+
+| [Previous Chapter](Chapter%2027.md)| [Next Chapter](Chapter%2029.md) |
+| --- | --- |

@@ -1,4 +1,6 @@
 # Chapter 27
+| [Previous Chapter](Chapter%2026.md)| [Next Chapter](Chapter%2028.md) |
+| --- | --- |
 1. Senuit autem Isaac, et caligaverunt oculi eius, et videre non poterat. Vocavitque Esau filium suum maiorem et dixit ei: “ Fili mi ”. Qui respondit: “ Adsum ”.
 2. Cui pater: “ Vides, inquit, quod senuerim et ignorem diem mortis meae;
 3. sume arma tua, pharetram et arcum, et egredere in agrum. Cumque venatu aliquid apprehenderis,
@@ -61,3 +63,6 @@ et solvas iugum eius de cervicibus tuis ”.
 44. habitabisque cum eo dies paucos, donec requiescat furor fratris tui,
 45. et cesset indignatio eius, obliviscaturque eorum, quae fecisti in eum. Postea mittam et adducam te inde huc. Cur utroque orbabor filio in uno die? ”.
 46. Dixit quoque Rebecca ad Isaac: “ Taedet me vitae meae propter filias Heth; si acceperit Iacob uxorem de filiabus Heth sicut istis de filiabus terrae, nolo vivere ”.
+
+| [Previous Chapter](Chapter%2026.md)| [Next Chapter](Chapter%2028.md) |
+| --- | --- |

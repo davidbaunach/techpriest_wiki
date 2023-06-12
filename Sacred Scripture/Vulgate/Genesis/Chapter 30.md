@@ -1,4 +1,6 @@
 # Chapter 30
+| [Previous Chapter](Chapter%2029.md)| [Next Chapter](Chapter%2031.md) |
+| --- | --- |
 1. Cernens autem Rachel quod infecunda esset, invidit sorori et ait marito suo: “ Da mihi liberos, alioquin moriar ”.
 2. Cui iratus respondit Iacob: “ Num pro Deo ego sum, qui privavit te fructu ventris? ”.
 3. At illa: “ Ecce, inquit, famula mea Bilha; ingredere ad illam, ut pariat super genua mea, et habeam ex illa et ego filios ”.
@@ -42,3 +44,6 @@
 41. Quotiescumque igitur calefiebant pecora robusta, ponebat Iacob virgas in canalibus aquarum ante oculos pecorum, ut in earum contemplatione conciperent.
 42. Quando vero pecora debilia erant, non ponebat eas. Factaque sunt debilia Laban et robusta Iacob;
 43. ditatusque est homo ultra modum et habuit greges multos, ancillas et servos, camelos et asinos.
+
+| [Previous Chapter](Chapter%2029.md)| [Next Chapter](Chapter%2031.md) |
+| --- | --- |

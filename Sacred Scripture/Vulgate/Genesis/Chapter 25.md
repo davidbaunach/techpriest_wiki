@@ -1,4 +1,6 @@
 # Chapter 25
+| [Previous Chapter](Chapter%2024.md)| [Next Chapter](Chapter%2026.md) |
+| --- | --- |
 1. Abraham vero aliam duxit uxorem nomine Ceturam,
 2. quae peperit ei Zamran et Iecsan et Madan et Madian et Iesboc et Sue.
 3. Iecsan quoque genuit Saba et Dedan. Filii Dedan fuerunt Assurim et Latusim et Loommim.
@@ -37,3 +39,6 @@ et maior serviet minori”.
 32. Ille respondit: “En morior; quid mihi proderunt primogenita?”.
 33. Ait Iacob: “Iura ergo mihi”. Iuravit et vendidit primogenita.
 34. Et sic, accepto pane et lentis edulio, comedit et bibit; surrexit et abiit parvipendens quod primogenita vendidisset.
+
+| [Previous Chapter](Chapter%2024.md)| [Next Chapter](Chapter%2026.md) |
+| --- | --- |
