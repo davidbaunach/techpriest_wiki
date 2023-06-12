@@ -1,4 +1,6 @@
 # Chapter 33
+| [Previous Chapter](Chapter%2032.md)| [Next Chapter](Chapter%2034.md) |
+| --- | --- |
 1. Elevans autem Iacob oculos suos vidit venientem Esau et cum eo quadringentos viros; divisitque filios Liae et Rachel ambarumque famularum.
 2. Et posuit utramque ancillam et liberos earum in principio, Liam vero et filios eius in secundo loco, Rachel autem et Ioseph novissimos.
 3. Et ipse praegrediens adoravit pronus in terram septies, donec appropinquaret ad fratrem suum.
@@ -20,3 +22,6 @@ Et, cum compelleret illum, suscepit
 18. Transivitque Iacob incolumis ad urbem Sichem, quae est in terra Chanaan, cum veniret de Paddanaram; et habitavit iuxta oppidum.
 19. Emitque partem agri, in qua fixerat tabernaculum suum, a filiis Hemmor patris Sichem centum argenteis.
 20. Et erexit ibi altare et vocavit illud: “ Deus est Deus Israel ”.
+
+| [Previous Chapter](Chapter%2032.md)| [Next Chapter](Chapter%2034.md) |
+| --- | --- |

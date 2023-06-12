@@ -1,4 +1,6 @@
 # Chapter 37
+| [Previous Chapter](Chapter%2036.md)| [Next Chapter](Chapter%2038.md) |
+| --- | --- |
 1. Habitavit autem Iacob in terra Chanaan, in qua peregrinatus est pater suus.
 2. Hae sunt generationes Iacob.
 Ioseph, cum decem et scptem esset annorum, pascebat gregem cum fratribus suis adhuc puer; et erat cum filiis Bilhae et Zelphae uxorum patris sui; detulitque patri malam eorum famam.
@@ -36,3 +38,6 @@ Ioseph, cum decem et scptem esset annorum, pascebat gregem cum fratribus suis ad
 34. Scissisque vestibus, indutus est cilicio lugens filium suum multo tempore.
 35. Congregatis autem cunctis liberis eius, ut lenirent dolorem patris, noluit consolationem accipere et ait: “ Descendam ad filium meum lugens in infernum ”. Et flevit super eo pater eius.
 36. Madianitae autem vendiderunt Ioseph in Aegypto Putiphari eunucho pharaonis, magistro satellitum.
+
+| [Previous Chapter](Chapter%2036.md)| [Next Chapter](Chapter%2038.md) |
+| --- | --- |

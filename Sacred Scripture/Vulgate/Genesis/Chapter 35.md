@@ -1,4 +1,6 @@
 # Chapter 35
+| [Previous Chapter](Chapter%2034.md)| [Next Chapter](Chapter%2036.md) |
+| --- | --- |
 1. Locutus est Deus ad Iacob: “ Surge et ascende Bethel et habita ibi; facque altare Deo, qui apparuit tibi, quando fugiebas Esau fratrem tuum ”.
 2. Iacob vero, convocata omni domo sua, ait: “ Abigite deos alienos, qui in medio vestri sunt, et mundamini ac mutate vestimenta vestra.
 3. Surgamus et ascendamus in Bethel, ut faciamus ibi altare Deo, qui exaudivit me in die tribulationis meae et socius fuit itineris mei ”.
@@ -29,3 +31,5 @@ Erant autem filii Iacob duodecim.
 27. Venit Iacob ad Isaac patrem suum in Mambre Cariatharbe, id est Hebron, ubi peregrinatus est Abraham et Isaac.
 28. Et completi sunt dies Isaac centum octoginta annorum;
 29. consumptusque aetate mortuus est et appositus est populo suo senex et plenus dierum. Et sepelierunt eum Esau et Iacob filii sui.
+| [Previous Chapter](Chapter%2034.md)| [Next Chapter](Chapter%2036.md) |
+| --- | --- |

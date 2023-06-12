@@ -1,4 +1,6 @@
 # Chapter 39
+| [Previous Chapter](Chapter%2038.md)| [Next Chapter](Chapter%2040.md) |
+| --- | --- |
 1. Igitur Ioseph ductus est in Aegyptum; emitque eum Putiphar eunuchus pharaonis, princeps satellitum, vir Aegyptius, de manu Ismaelitarum, a quibus perductus erat.
 2. Fuitque Dominus cum eo, et erat vir in cunctis prospere agens habitabatque in domo domini sui.
 3. Qui optime noverat esse Dominum cum eo et omnia, quae gereret, ab eo dirigi in manu illius.
@@ -22,3 +24,6 @@
 21. Fuit autem Dominus cum Ioseph et misertus illius dedit ei gratiam in conspectu principis carceris.
 22. Qui tradidit in manu Ioseph universos vinctos, qui in custodia tenebantur, et, quidquid ibi faciendum erat, ipse faciebat,
 23. nec princeps carceris spectabat quidquid in manu eius erat: Dominus enim erat cum illo et omnia opera eius dirigebat.
+
+| [Previous Chapter](Chapter%2038.md)| [Next Chapter](Chapter%2040.md) |
+| --- | --- |

@@ -1,4 +1,6 @@
 # Chapter 32
+| [Previous Chapter](Chapter%2031.md)| [Next Chapter](Chapter%2033.md) |
+| --- | --- |
 1. Laban vero de nocte consurgens osculatus est filios et filias suas et benedixit illis reversusque est in locum suum.
 2. Iacob quoque abiit itinere, quo coeperat, fueruntque ei obviam angeli Dei.
 3. Quos cum vidisset, ait: “ Castra Dei sunt haec ”; et appellavit nomen loci illius Mahanaim (id est Castra).
@@ -33,3 +35,6 @@ Et ecce vir luctabatur cum eo usque mane.
 31. Vocavitque Iacob nomen loci illius Phanuel dicens: “ Vidi Deum facie ad faciem, et salva facta est anima mea ”.
 32. Ortusque est ei sol, cum transgrederetur Phanuel; ipse vero claudicabat propter femur.
 33. Quam ob causam non comedunt filii Israel nervum, qui est in femore, usque in praesentem diem, eo quod tetigerit nervum femoris Iacob.
+
+| [Previous Chapter](Chapter%2031.md)| [Next Chapter](Chapter%2033.md) |
+| --- | --- |

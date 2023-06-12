@@ -1,4 +1,6 @@
 # Chapter 38
+| [Previous Chapter](Chapter%2037.md)| [Next Chapter](Chapter%2039.md) |
+| --- | --- |
 1. Eo tempore descendens Iudas a fratribus suis divertit ad virum Odollamitem nomine Hiram.
 2. Viditque ibi filiam hominis Chananaei vocabulo Sue et, accepta uxore, ingressus est ad eam.
 3. Quae concepit et peperit filium vocavitque nomen eius Her.
@@ -29,3 +31,6 @@
 28. “ Iste egressus est prior ”.
 29. Illo vero retrahente manum, egressus est frater eius; dixitque mulier: “ Qualem rupisti tibi rupturam? ”. Et ob hanc causam vocatum est nomen eius Phares (id est Ruptura).
 30. Postea egressus est frater eius, in cuius manu erat coccinum; qui appellatus est Zara (id est Ortus solis).
+
+| [Previous Chapter](Chapter%2037.md)| [Next Chapter](Chapter%2039.md) |
+| --- | --- |

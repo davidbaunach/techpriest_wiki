@@ -1,4 +1,6 @@
 # Chapter 36
+| [Previous Chapter](Chapter%2035.md)| [Next Chapter](Chapter%2037.md) |
+| --- | --- |
 1. Hae sunt autem generationes Esau. Ipse est Edom.
 2. Esau accepit uxores de filiabus Chanaan: Ada filiam Elon Hetthaei et Oolibama filiam Ana filii Sebeon Horraei;
 3. Basemath quoque filiam Ismael sororem Nabaioth.
@@ -44,3 +46,5 @@ Hi filii Esau, qui nati sunt ei in terra Chanaan.
 42. dux Cenez, dux Theman, dux Mabsar,
 43. dux Magdiel, dux Iram.
 Hi duces Edom habitantes in terra imperii sui. Ipse est Esau pater Idumaeorum.
+| [Previous Chapter](Chapter%2035.md)| [Next Chapter](Chapter%2037.md) |
+| --- | --- |

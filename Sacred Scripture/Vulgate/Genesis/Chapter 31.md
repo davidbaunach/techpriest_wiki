@@ -1,4 +1,6 @@
 # Chapter 31
+| [Previous Chapter](Chapter%2030.md)| [Next Chapter](Chapter%2032.md) |
+| --- | --- |
 1. Postquam autem audivit verba filiorum Laban dicentium: “ Tulit Iacob omnia, quae fuerunt patris nostri, et de patris nostri facultate acquisivit has divitias ”,
 2. animadvertit quoque faciem Laban quod non esset erga se sicut heri et nudiustertius.
 3. Et dixit Dominus ad Iacob: “ Revertere in terram patrum tuorum et ad cognationem tuam, eroque tecum ”.
@@ -54,3 +56,6 @@
 53. Deus Abraham et Deus Nachor iudicent inter nos ”.
 Iuravit Iacob per Timorem patris sui Isaac;
 54. immolatisque victimis in monte, vocavit fratres suos, ut ederent panem. Qui cum comedissent, pernoctaverunt in monte.
+
+| [Previous Chapter](Chapter%2030.md)| [Next Chapter](Chapter%2032.md) |
+| --- | --- |

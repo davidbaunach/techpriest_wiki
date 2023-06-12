@@ -1,4 +1,6 @@
 # Chapter 34
+| [Previous Chapter](Chapter%2033.md)| [Next Chapter](Chapter%2035.md) |
+| --- | --- |
 1. Egressa est autem Dina filia, quam Lia pepererat Iacob, ut videret filias regionis illius.
 2. Quam cum vidisset Sichem filius Hemmor Hevaei principis terrae illius, adamavit eam et rapuit; et dormivit cum illa, vi opprimens illam.
 3. Et conglutinata est anima eius cum ea, et amavit puellam et locutus est ad cor eius.
@@ -30,3 +32,6 @@
 29. Omnes opes eorum, parvulos quoque et uxores duxerunt captivas et diripuerunt omnia, quae in domibus erant.
 30. Iacob autem dixit ad Simeon et Levi: “ Turbastis me et odiosum fecistis me Chananaeis et Pherezaeis habitatoribus terrae huius. Nos pauci sumus; illi congregati percutient me, et delebor ego et domus mea ”.
 31. Responderunt: “ Numquid ut scorto abuti debuere sorore nostra? ”.
+
+| [Previous Chapter](Chapter%2033.md)| [Next Chapter](Chapter%2035.md) |
+| --- | --- |

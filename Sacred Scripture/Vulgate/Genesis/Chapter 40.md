@@ -1,4 +1,6 @@
 # Chapter 40
+| [Previous Chapter](Chapter%2039.md)| [Next Chapter](Chapter%2041.md) |
+| --- | --- |
 1. His ita gestis, accidit ut peccarent pincerna regis Aegypti et pistor domino suo.
 2. Iratusque pharao contra duos eunuchos, praepositum pincernarum et praepositum pistorum,
 3. misit eos in carcerem principis satellitum, in quo erat vinctus et Ioseph.
@@ -22,3 +24,6 @@
 21. restituitque alterum in locum suum, ut porrigeret ei poculum,
 22. alterum suspendit in patibulo, sicut interpretatus erat eis Ioseph.
 23. Attamen praepositus pincernarum non est recordatus Ioseph, sed oblitus est interpretis sui.
+
+| [Previous Chapter](Chapter%2039.md)| [Next Chapter](Chapter%2041.md) |
+| --- | --- |
