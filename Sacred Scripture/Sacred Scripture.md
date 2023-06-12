@@ -6,3 +6,8 @@ The religious texts were compiled by different religious communities into variou
 Christianity began as an outgrowth of Judaism, using the Septuagint as the basis of the Old Testament. The early Church continued the Jewish tradition of writing and incorporating what it saw as inspired, authoritative religious books. The gospels, Pauline epistles and other texts  quickly coalesced into the New Testament.
 
 With estimated total sales of over five billion copies, the Bible is the best-selling publication of all time. It has had a profound influence both on Western culture and history and on cultures around the globe. The study of it through biblical criticism has indirectly impacted culture and history as well. The Bible is currently translated or being translated into about half of the world's languages.
+
+Significant translations:
+
+Latin:
+-[The Vulgate](Vulgate/Vulgate.md)
