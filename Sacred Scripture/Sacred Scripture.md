@@ -10,4 +10,5 @@ With estimated total sales of over five billion copies, the Bible is the best-se
 Significant translations:
 
 Latin:
+
 -[The Vulgate](Vulgate/Vulgate.md)
