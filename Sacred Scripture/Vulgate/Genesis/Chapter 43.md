@@ -1,4 +1,6 @@
 # Chapter 43
+| [Previous Chapter](Chapter%2042.md)| [Next Chapter](Chapter%2044.md) |
+| --- | --- |
 1. Interim fames omnem terram vehementer premebat;
 2. consumptisque cibis, quos ex Aegypto detulerant, dixit Iacob ad filios suos: “ Revertimini et emite nobis pauxillum escarum ”.
 3. Respondit Iudas: “ Denuntiavit nobis vir ille sub attestatione iurisiurandi dicens: "Non videbitis faciem meam, nisi fratrem vestrum minimum adduxeritis vobiscum".
@@ -33,3 +35,6 @@
 32. Quibus appositis, seorsum Ioseph et seorsum fratribus, Aegyptiis quoque, qui vescebantur simul, seorsum ­ illicitum est enim Aegyptiis comedere cum Hebraeis, et profanum putant huiuscemodi convivium ­
 33. sederunt coram eo, primogenitus iuxta primogenita sua et minimus iuxta aetatem suam. Et mirabantur nimis,
 34. sumptis partibus, quas ab eo acceperant; maiorque pars venit Beniamin, ita ut quinque partibus excederet. Biberuntque et inebriati sunt cum eo.
+
+| [Previous Chapter](Chapter%2042.md)| [Next Chapter](Chapter%2044.md) |
+| --- | --- |

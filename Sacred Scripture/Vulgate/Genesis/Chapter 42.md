@@ -1,4 +1,6 @@
 # Chapter 42
+| [Previous Chapter](Chapter%2041.md)| [Next Chapter](Chapter%2043.md) |
+| --- | --- |
 1. Audiens autem Iacob quod alimenta venderentur in Aegypto, dixit filiis suis: “ Quare aspicitis vos invicem?
 2. Audivi quod triticum venumdetur in Aegypto; descendite et emite nobis necessaria, ut possimus vivere et non consumamur inopia ”.
 3. Descenderunt igitur fratres Ioseph decem, ut emerent frumenta in Aegypto,
@@ -37,4 +39,7 @@ Fecerunt, ut dixerat,
 35. His dictis, cum frumenta effunderent, singuli reppererunt in ore saccorum ligatas pecunias; exterritisque simul omnibus,
 36. dixit pater Iacob: “ Absque liberis me esse fecistis: Ioseph non est super, Simeon tenetur in vinculis, et Beniamin auferetis. In me haec omnia mala reciderunt ”.
 37. Cui respondit Ruben: “ Duos filios meos interfice, si non reduxero illum tibi; trade illum in manu mea, et ego eum tibi restituam ”.
-38. At ille: “ Non descendet, inquit, filius meus vobiscum. Frater mortuus est, et ipse solus remansit; si quid ei adversi acciderit in via, deducetis canos meos cum dolore ad inferos ”.
+38. At ille: “ Non descendet, inquit, filius meus vobiscum. Frater mortuus est, et ipse solus remansit; si quid ei adversi acciderit in via, deducetis canos meos cum dolore ad inferos”.
+
+| [Previous Chapter](Chapter%2041.md)| [Next Chapter](Chapter%2043.md) |
+| --- | --- |

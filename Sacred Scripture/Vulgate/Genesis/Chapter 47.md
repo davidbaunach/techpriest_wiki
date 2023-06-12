@@ -1,4 +1,6 @@
 # Chapter 47
+| [Previous Chapter](Chapter%2046.md)| [Next Chapter](Chapter%2048.md) |
+| --- | --- |
 1. Ingressus ergo Ioseph nuntiavit pharaoni dicens: “ Pater meus et fratres, oves eorum et armenta et cuncta, quae possident, venerunt de terra Chanaan; et ecce consistunt in terra Gessen ”.
 2. Ex omnibus fratribus suis quinque viros statuit coram rege,
 3. quos ille interrogavit: “ Quid habetis operis? ”. Responderunt: “ Pastores ovium sumus servi tui et nos et patres nostri ”.
@@ -30,3 +32,6 @@
 29. Cumque appropinquare cerneret diem mortis suae, vocavit filium suum Ioseph et dixit ad eum: “ Si inveni gratiam in conspectu tuo, pone manum tuam sub femore meo et facies mihi misericordiam et veritatem, ut non sepelias me in Aegypto,
 30. sed dormiam cum patribus meis, et auferas me de terra hac condasque in sepulcro maiorum meorum ”. Cui respondit Ioseph: “ Ego faciam, quod iussisti ”.
 31. Et ille: “ Iura ergo, inquit, mihi! ”. Quo iurante, adoravit Israel conversus ad lectuli caput.
+
+| [Previous Chapter](Chapter%2046.md)| [Next Chapter](Chapter%2048.md) |
+| --- | --- |

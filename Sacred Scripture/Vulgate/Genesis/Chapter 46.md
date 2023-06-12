@@ -1,4 +1,6 @@
 # Chapter 46
+| [Previous Chapter](Chapter%2045.md)| [Next Chapter](Chapter%2047.md) |
+| --- | --- |
 1. Profectusque Israel cum omnibus, quae habebat, venit Bersabee et, mactatis ibi victimis Deo patris sui Isaac,
 2. audivit eum per visionem noctis vocantem se: “ Iacob, Iacob! ”. Cui respondit: “ Ecce adsum! ”.
 3. Ait illi: “ Ego sum Deus, Deus patris tui. Noli timere descendere in Aegyptum, quia in gentem magnam faciam te ibi.
@@ -34,3 +36,6 @@ Primogenitus Ruben.
 32. Et sunt viri pastores ovium curamque habent alendorum gregum; pecora sua et armenta et omnia, quae habere potuerunt, adduxerunt secum.
 33. Cumque vocaverit vos et dixerit: "Quod est opus vestrum?".
 34. Respondebitis: "Viri pastores sumus servi tui ab infantia nostra usque in praesens et nos et patres nostri". Haec autem dicetis, ut habitare possitis in terra Gessen, quia detestantur Aegyptii omnes pastores ovium ”.
+
+| [Previous Chapter](Chapter%2045.md)| [Next Chapter](Chapter%2047.md) |
+| --- | --- |

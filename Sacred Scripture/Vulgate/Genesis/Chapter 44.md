@@ -1,4 +1,6 @@
 # Chapter 44
+| [Previous Chapter](Chapter%2043.md)| [Next Chapter](Chapter%2045.md) |
+| --- | --- |
 1. Praecepit autem Ioseph dispensatori domus suae dicens: “ Imple saccos eorum frumento, quantum possunt capere, et pone pecuniam singulorum in summitate sacci.
 2. Scyphum autem meum argenteum et pretium, quod dedit tritici, pone in ore sacci iunioris ”. Factumque est ita.
 3. Et, orto mane, dimissi sunt cum asinis suis.
@@ -33,3 +35,6 @@
 32. Servus tuus pro puero patri meo spopondit: Nisi reduxero eum, peccati reus ero in patrem meum omni tempore.
 33. Manebo itaque servus tuus pro puero in ministerio domini mei, et puer ascendat cum fratribus suis.
 34. Non enim possum redire ad patrem meum, absente puero, ne calamitatis, quae oppressura est patrem meum, testis assistam ”.
+
+| [Previous Chapter](Chapter%2043.md)| [Next Chapter](Chapter%2045.md) |
+| --- | --- |

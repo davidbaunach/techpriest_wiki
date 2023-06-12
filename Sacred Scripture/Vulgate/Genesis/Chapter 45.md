@@ -1,4 +1,6 @@
 # Chapter 45
+| [Previous Chapter](Chapter%2044.md)| [Next Chapter](Chapter%2046.md) |
+| --- | --- |
 1. Non se poterat ultra cohibere Ioseph omnibus coram astantibus, unde clamavit: “ Egredimini, cuncti, foras! ”. Et nemo aderat cum eo, quando manifestavit se fratribus suis.
 2. Elevavitque vocem cum fletu, quam audierunt Aegyptii omnisque domus pharaonis.
 3. Et dixit Ioseph fratribus suis: “ Ego sum Ioseph! Adhuc pater meus vivit? ”. Nec poterant respondere fratres nimio terrore perterriti.
@@ -27,3 +29,6 @@
 26. et nuntiaverunt ei dicentes: “ Ioseph vivit et ipse dominatur in omni terra Aegypti! ”. At cor eius frigidum mansit; non enim credebat eis.
 27. Tunc referebant omnia verba Ioseph, quae dixerat eis. Cumque vidisset plaustra et universa, quae miserat ad adducendum eum, revixit spiritus eius,
 28. et ait: “ Sufficit mihi, si adhuc Ioseph filius meus vivit. Vadam et videbo illum, antequam moriar ”.
+
+| [Previous Chapter](Chapter%2044.md)| [Next Chapter](Chapter%2046.md) |
+| --- | --- |

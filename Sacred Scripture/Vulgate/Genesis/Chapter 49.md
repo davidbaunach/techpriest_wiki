@@ -1,4 +1,6 @@
 # Chapter 49
+| [Previous Chapter](Chapter%2048.md)| [Next Chapter](Chapter%2050.md) |
+| --- | --- |
 1. Vocavit autem Iacob filios suos et ait eis: “ Congregamini, ut annuntiem, quae ventura sunt vobis in diebus novissimis.
 2. Congregamini et audite, filii Iacob,
 audite Israel patrem vestrum!

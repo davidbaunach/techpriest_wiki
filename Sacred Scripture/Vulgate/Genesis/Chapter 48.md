@@ -1,4 +1,6 @@
 # Chapter 48
+| [Previous Chapter](Chapter%2047.md)| [Next Chapter](Chapter%2049.md) |
+| --- | --- |
 1. His ita transactis, nuntiatum est Ioseph quod aegrotaret pater suus. Et assumpsit secum duos filios Manasse et Ephraim.
 2. Dictumque est seni: “ Ecce filius tuus Ioseph venit ad te ”. Qui confortatus sedit in lectulo
 3. et ingresso ad se ait: “ Deus omnipotens apparuit mihi in Luza, quae est in terra Chanaan, benedixitque mihi
@@ -32,3 +34,6 @@ super terram! ”.
 Constituitque Ephraim ante Manassen.
 21. Et ait ad Ioseph filium suum: “ En ego morior, et erit Deus vobiscum reducetque vos ad terram patrum vestrorum.
 22. Do tibi partem unam extra fratres tuos, quam tuli de manu Amorraei in gladio et arcu meo ”.
+
+| [Previous Chapter](Chapter%2047.md)| [Next Chapter](Chapter%2049.md) |
+| --- | --- |

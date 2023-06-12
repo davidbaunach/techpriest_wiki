@@ -1,4 +1,6 @@
 # Chapter 41
+| [Previous Chapter](Chapter%2040.md)| [Next Chapter](Chapter%2042.md) |
+| --- | --- |
 1. Post duos annos vidit pharao somnium. Putabat se stare super fluvium,
 2. de quo ascendebant septem boves pulchrae et crassae et pascebantur in locis palustribus.
 3. Aliae quoque septem emergebant post illas de flumine foedae confectaeque macie et stabant in ipsa amnis ripa;
@@ -57,3 +59,5 @@ Egressus est itaque Ioseph ad terram Aegypti
 55. Qua esuriente, clamavit populus ad pharaonem alimenta petens. Quibus ille respondit: “ Ite ad Ioseph et, quidquid vobis dixerit, facite ”.
 56. Et invaluit fames in omni terra Aegypti; aperuitque Ioseph universa horrea et vendebat Aegyptiis; nam et illos oppresserat fames.
 57. Omnesque provinciae veniebant in Aegyptum, ut emerent escas apud Ioseph, quia inopia invaluerat in universa terra.
+| [Previous Chapter](Chapter%2040.md)| [Next Chapter](Chapter%2042.md) |
+| --- | --- |
