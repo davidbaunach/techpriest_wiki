@@ -12,3 +12,7 @@ Significant translations:
 Latin:
 
 -[The Vulgate](Vulgate/Vulgate.md)
+
+English:
+
+-[The Douay-Rheims](Douay-Rheims/Douay-Rheimsindex.md)
