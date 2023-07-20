@@ -27,3 +27,5 @@
 
 | [Previous Chapter](Chapter%2039.md)| [Next Chapter](Chapter%2041.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

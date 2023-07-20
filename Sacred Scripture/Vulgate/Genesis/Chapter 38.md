@@ -34,3 +34,5 @@
 
 | [Previous Chapter](Chapter%2037.md)| [Next Chapter](Chapter%2039.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

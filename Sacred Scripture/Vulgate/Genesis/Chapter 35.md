@@ -33,3 +33,5 @@ Erant autem filii Iacob duodecim.
 29. consumptusque aetate mortuus est et appositus est populo suo senex et plenus dierum. Et sepelierunt eum Esau et Iacob filii sui.
 | [Previous Chapter](Chapter%2034.md)| [Next Chapter](Chapter%2036.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

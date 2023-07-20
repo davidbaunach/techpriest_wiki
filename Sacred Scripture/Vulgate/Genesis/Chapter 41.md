@@ -61,3 +61,5 @@ Egressus est itaque Ioseph ad terram Aegypti
 57. Omnesque provinciae veniebant in Aegyptum, ut emerent escas apud Ioseph, quia inopia invaluerat in universa terra.
 | [Previous Chapter](Chapter%2040.md)| [Next Chapter](Chapter%2042.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

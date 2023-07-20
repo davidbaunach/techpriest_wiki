@@ -39,3 +39,5 @@ Primogenitus Ruben.
 
 | [Previous Chapter](Chapter%2045.md)| [Next Chapter](Chapter%2047.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

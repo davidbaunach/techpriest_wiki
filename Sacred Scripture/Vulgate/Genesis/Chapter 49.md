@@ -87,3 +87,8 @@ et vespere dividet spolia ”.
 30. contra Mambre in terra Chanaan, quam emit Abraham cum agro ab Ephron Hetthaeo in possessionem sepulcri;
 31. ibi sepelierunt eum et Saram uxorem eius, ibi sepultus est Isaac cum Rebecca coniuge sua, ibi et Lia condita iacet ”.
 32. Finitisque mandatis, quibus filios instruebat, collegit pedes suos super lectulum et obiit; appositusque est ad populum suum.
+
+| [Previous Chapter](Chapter%2048.md)| [Next Chapter](Chapter%2050.md) |
+| --- | --- |
+
+[Vulgate](../Vulgateindex.md)

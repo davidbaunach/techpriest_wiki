@@ -43,3 +43,5 @@ Fecerunt, ut dixerat,
 
 | [Previous Chapter](Chapter%2041.md)| [Next Chapter](Chapter%2043.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

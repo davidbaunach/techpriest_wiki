@@ -42,3 +42,5 @@ et maior serviet minori”.
 
 | [Previous Chapter](Chapter%2024.md)| [Next Chapter](Chapter%2026.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

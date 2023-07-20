@@ -38,3 +38,5 @@
 
 | [Previous Chapter](Chapter%2043.md)| [Next Chapter](Chapter%2045.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

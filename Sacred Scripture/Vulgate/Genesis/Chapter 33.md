@@ -25,3 +25,5 @@ Et, cum compelleret illum, suscepit
 
 | [Previous Chapter](Chapter%2032.md)| [Next Chapter](Chapter%2034.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

@@ -41,3 +41,5 @@ Facto mane, vidit, et ecce erat Lia.
 
 | [Previous Chapter](Chapter%2028.md)| [Next Chapter](Chapter%2030.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

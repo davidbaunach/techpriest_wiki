@@ -26,3 +26,5 @@ et e regione universorum fratrum suorum figet tabernacula ”.
 
 | [Previous Chapter](Chapter%2015.md)| [Next Chapter](Chapter%2017.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

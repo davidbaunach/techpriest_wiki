@@ -30,3 +30,5 @@
 
 | [Previous Chapter](Chapter%2016.md)| [Next Chapter](Chapter%2018.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

@@ -77,3 +77,5 @@ portas inimicorum suorum!”.
 
 | [Previous Chapter](Chapter%2023.md)| [Next Chapter](Chapter%2025.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

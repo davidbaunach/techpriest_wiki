@@ -33,3 +33,5 @@ universae cognationes terrae!”.
 
 | [Previous Chapter](Chapter%2011.md)| [Next Chapter](Chapter%2013.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

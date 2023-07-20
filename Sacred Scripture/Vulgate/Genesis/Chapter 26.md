@@ -45,3 +45,5 @@ propter servum meum Abraham ”.
 
 | [Previous Chapter](Chapter%2025.md)| [Next Chapter](Chapter%2027.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

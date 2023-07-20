@@ -26,3 +26,5 @@
 
 | [Previous Chapter](Chapter%2027.md)| [Next Chapter](Chapter%2029.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

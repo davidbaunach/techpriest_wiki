@@ -31,3 +31,5 @@ Et dedit ei decimas ex omnibus.
 
 | [Previous Chapter](Chapter%2013.md)| [Next Chapter](Chapter%2015.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

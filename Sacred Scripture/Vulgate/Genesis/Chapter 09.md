@@ -42,3 +42,5 @@ sitque Chanaan servus eius”.
 
 | [Previous Chapter](Chapter%2008.md)| [Next Chapter](Chapter%2010.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

@@ -38,3 +38,5 @@ Et ecce vir luctabatur cum eo usque mane.
 
 | [Previous Chapter](Chapter%2031.md)| [Next Chapter](Chapter%2033.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

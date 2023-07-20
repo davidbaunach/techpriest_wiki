@@ -22,3 +22,5 @@
 
 | [Previous Chapter](Chapter%2012.md)| [Next Chapter](Chapter%2014.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

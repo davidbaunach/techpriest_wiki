@@ -66,3 +66,5 @@ et solvas iugum eius de cervicibus tuis ”.
 
 | [Previous Chapter](Chapter%2026.md)| [Next Chapter](Chapter%2028.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

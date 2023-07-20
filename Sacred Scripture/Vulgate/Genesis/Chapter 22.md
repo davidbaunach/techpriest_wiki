@@ -29,3 +29,5 @@ Pergebant ambo pariter;
 
 | [Previous Chapter](Chapter%2021.md)| [Next Chapter](Chapter%2023.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

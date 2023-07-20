@@ -48,3 +48,5 @@ Hi filii Esau, qui nati sunt ei in terra Chanaan.
 Hi duces Edom habitantes in terra imperii sui. Ipse est Esau pater Idumaeorum.
 | [Previous Chapter](Chapter%2035.md)| [Next Chapter](Chapter%2037.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

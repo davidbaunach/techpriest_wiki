@@ -41,3 +41,5 @@ Ioseph, cum decem et scptem esset annorum, pascebat gregem cum fratribus suis ad
 
 | [Previous Chapter](Chapter%2036.md)| [Next Chapter](Chapter%2038.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

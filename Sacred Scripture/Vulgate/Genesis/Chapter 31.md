@@ -59,3 +59,5 @@ Iuravit Iacob per Timorem patris sui Isaac;
 
 | [Previous Chapter](Chapter%2030.md)| [Next Chapter](Chapter%2032.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

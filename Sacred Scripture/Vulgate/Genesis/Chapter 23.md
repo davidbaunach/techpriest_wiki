@@ -24,3 +24,5 @@
 
 | [Previous Chapter](Chapter%2022.md)| [Next Chapter](Chapter%2024.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

@@ -37,3 +37,5 @@ Constituitque Ephraim ante Manassen.
 
 | [Previous Chapter](Chapter%2047.md)| [Next Chapter](Chapter%2049.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

@@ -42,3 +42,5 @@
 
 | [Previous Chapter](Chapter%2018.md)| [Next Chapter](Chapter%2020.md) |
 | --- | --- |
+
+[Vulgate](../Vulgateindex.md)

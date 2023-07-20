@@ -1,4 +1,6 @@
 # Chapter 50
+| [Previous Chapter](Chapter%2049.md)|  |
+| --- | --- |
 1. Ioseph ruit super faciem patris flens et deosculans eum.
 2. Praecepitque servis suis medicis, ut aromatibus condirent patrem.
 3. Quibus iussa explentibus, transierunt quadraginta dies; iste quippe mos erat cadaverum conditorum. Flevitque eum Aegyptus septuaginta diebus.
@@ -25,3 +27,8 @@
 24. Quibus transactis, locutus est fratribus suis: “ Post mortem meam Deus visitabit vos et ascendere vos faciet de terra ista ad terram, quam iuravit Abraham, Isaac et Iacob ”.
 25. Cumque adiurasset eos atque dixisset: “ Deus visitabit vos; asportate ossa mea vobiscum de loco isto ”,
 26. mortuus est, expletis centum decem vitae suae annis. Et conditus aromatibus repositus est in loculo in Aegypto.
+
+| [Previous Chapter](Chapter%2049.md)|  |
+| --- | --- |
+
+[Vulgate](../Vulgateindex.md)
