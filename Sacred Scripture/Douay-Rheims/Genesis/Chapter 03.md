@@ -1,5 +1,6 @@
 # Chapter 3
-
+| [Previous Chapter](Chapter%2002.md)| [Next Chapter](Chapter%2004.md) |
+| --- | --- |
 1. Now the serpent was more subtle than any of the beasts of the earth which the Lord God had made. And he said to the woman: Why hath God commanded you, that you should not eat of every tree of paradise?
 2. And the woman answered him, saying: Of the fruit of the trees that are in paradise we do eat:
 3. But of the fruit of the tree which is in the midst of paradise, God hath commanded us that we should not eat; and that we should not touch it, lest perhaps we die.
@@ -25,5 +26,7 @@
 23. And the Lord God sent him out of the paradise of pleasure, to till the earth from which he was taken.
 24. And he cast out Adam; and placed before the paradise of pleasure Cherubims, and a flaming sword, turning every way, to keep the way of the tree of life.
 
+| [Previous Chapter](Chapter%2002.md)| [Next Chapter](Chapter%2004.md) |
+| --- | --- |
 
 [Douay-Rheims](../Douay-Rheimsindex.md)

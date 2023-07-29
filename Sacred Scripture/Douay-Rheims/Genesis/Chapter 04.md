@@ -1,5 +1,6 @@
 # Chapter 4
-
+| [Previous Chapter](Chapter%2003.md)| [Next Chapter](Chapter%2005.md) |
+| --- | --- |
 1. And Adam knew Eve his wife: who conceived and brought forth Cain, saying: I have gotten a man through God.
 2. And again she brought forth his brother Abel. And Abel was a shepherd, and Cain a husbandman.
 3. And it came to pass after many days that Cain offered, of the fruits of the earth, gifts to the Lord.
@@ -27,5 +28,7 @@
 25. Adam also knew his wife again: and she brought forth a son, and called his name Seth, saying: God hath given me another seed for Abel, whom Cain slew.
 26. But to Seth also was born a son, whom he called Enos: this man began to call upon the name of the Lord.
 
+| [Previous Chapter](Chapter%2003.md)| [Next Chapter](Chapter%2005.md) |
+| --- | --- |
 
 [Douay-Rheims](../Douay-Rheimsindex.md)

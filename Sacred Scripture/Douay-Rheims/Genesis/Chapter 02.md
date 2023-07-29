@@ -1,5 +1,6 @@
 # Chapter 2
-
+| [Previous Chapter](Chapter%2001.md)| [Next Chapter](Chapter%2003.md) |
+| --- | --- |
 1. So the heavens and the earth were finished, and all the furniture of them.
 2. And on the seventh day God ended his work which he had made: and he rested on the seventh day from all his work which he had done.
 3. And he blessed the seventh day, and sanctified it: because in it he had rested from all his work which God created and made.
@@ -26,5 +27,7 @@
 24. Wherefore a man shall leave father and mother, and shall cleave to his wife: and they shall be two in one flesh.
 25. And they were both naked: to wit, Adam and his wife: and were not ashamed.
 
+| [Previous Chapter](Chapter%2001.md)| [Next Chapter](Chapter%2003.md) |
+| --- | --- |
 
 [Douay-Rheims](../Douay-Rheimsindex.md)
