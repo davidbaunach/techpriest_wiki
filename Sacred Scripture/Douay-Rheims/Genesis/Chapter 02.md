@@ -1,5 +1,4 @@
-
-## Chapter 2
+# Chapter 2
 
 1. So the heavens and the earth were finished, and all the furniture of them.
 2. And on the seventh day God ended his work which he had made: and he rested on the seventh day from all his work which he had done.
