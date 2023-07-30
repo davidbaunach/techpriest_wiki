@@ -7,7 +7,7 @@ Christianity began as an outgrowth of Judaism, using the Septuagint as the basis
 
 With estimated total sales of over five billion copies, the Bible is the best-selling publication of all time. It has had a profound influence both on Western culture and history and on cultures around the globe. The study of it through biblical criticism has indirectly impacted culture and history as well. The Bible is currently translated or being translated into about half of the world's languages.
 
-Significant translations:
+## Significant translations:
 
 Latin:
 
@@ -16,3 +16,7 @@ Latin:
 English:
 
 -[The Douay-Rheims](Douay-Rheims/Douay-Rheimsindex.md)
+
+## USCCB Scandal
+
+[A list (in progress) of the times the USCCB or Vatican lawyers have responded with takedown orders to catechists making educational use of scripture, the Catechism, or encyclicals.](/Sin/usccb_scandal.md) 
