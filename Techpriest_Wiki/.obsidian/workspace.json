@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "052724c9169c8a12",
+    "type": "split",
+    "children": [
+      {
+        "id": "c95f28ae64e44ab7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be9b4f9a8616d9b5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f29dcc80402b606d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e6b8b5a5e428724",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a69e7f4e0572e0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca9b3a09b36d09da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f08b373323b96b0e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b678261fbf25e7ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "d929a36507468acf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d8cd50999297488",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5686d2fec12df66",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9df0d4dbb8130661",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "92786887b00de0bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "be9b4f9a8616d9b5",
+  "lastOpenFiles": [
+    "The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 02.md",
+    "The Web/Sacred Scripture/Vulgate/Vulgateindex.md",
+    "The Web/Sacred Scripture/Vulgate/Genesis/Chapter 01.md",
+    "The Web/Sacred Scripture/Vulgate/Vulgate.md",
+    "The Web/Sacred Scripture/Sacred Scripture.md",
+    "The Web/Jesus Christ.md",
+    "The Web/Sacred Scripture/Douay-Rheims/Douay-Rheimsindex.md",
+    "The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 03.md",
+    "The Web/God.md",
+    "The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 10.md",
+    "The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 09.md",
+    "The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 08.md",
+    "The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 07.md",
+    "The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 06.md",
+    "The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 05.md",
+    "The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 04.md",
+    "The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 01.md",
+    "The Web/Sacred Scripture/Douay-Rheims/Douay-Rheims.md",
+    "The Web/Natural/Off Grid/100 Rabbits/100 Rabbits.md",
+    "The Web/Natural/electricity.md",
+    "The Web/Natural/earth.md",
+    "The Web/Natural/Off Grid/100 Rabbits/Off the Grid.md",
+    "The Web/Natural/Off Grid/off grid.md",
+    "The Web/Natural/vegetable.md",
+    "The Web/Natural/nature.md",
+    "100R — off the grid/bowride.jpg.md",
+    "100R — off the grid",
+    "The Web/Natural/Off Grid/100 Rabbits",
+    "The Web/Natural/Off Grid",
+    "Media/Books",
+    "Techpriest_Wiki/Media/Ebooks",
+    "Techpriest_Wiki/Media",
+    "Techpriest_Wiki",
+    "The Web/The Church/Theologians",
+    "The Web/The Church",
+    "Media/Images/kratky-images-005_orig.jpeg",
+    "Media/Images/kratky-images-016.jpeg",
+    "Media/Images/kratky-images-6_orig.jpg",
+    "Media/Images/kratky-images-014_orig.jpeg",
+    "Media/Images/would-you-001.jpeg",
+    "Media/Images/220px-The_Blue_Marble_%28remastered%29.jpg",
+    "Media/Images",
+    "220px-The_Blue_Marble_%28remastered%29.jpg",
+    "kratky-images-005_orig.jpeg",
+    "kratky-images-016.jpeg",
+    "kratky-images-6_orig.jpg"
+  ]
+}
