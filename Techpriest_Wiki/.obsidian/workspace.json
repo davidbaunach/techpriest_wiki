@@ -11,8 +11,12 @@
             "id": "be9b4f9a8616d9b5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "The Web/Jesus Christ.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Web/Jesus Christ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Web/Jesus Christ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Web/Jesus Christ.md"
+              }
             }
           }
         ]
@@ -139,6 +147,8 @@
   },
   "active": "be9b4f9a8616d9b5",
   "lastOpenFiles": [
+    "Electricity - Wikipedia/170px-M_Faraday_Th_Phillips_oil_1842.jpg.md",
+    "Electricity - Wikipedia",
     "The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 02.md",
     "The Web/Sacred Scripture/Vulgate/Vulgateindex.md",
     "The Web/Sacred Scripture/Vulgate/Genesis/Chapter 01.md",
@@ -164,7 +174,6 @@
     "The Web/Natural/Off Grid/off grid.md",
     "The Web/Natural/vegetable.md",
     "The Web/Natural/nature.md",
-    "100R — off the grid/bowride.jpg.md",
     "100R — off the grid",
     "The Web/Natural/Off Grid/100 Rabbits",
     "The Web/Natural/Off Grid",
@@ -180,7 +189,6 @@
     "Media/Images/kratky-images-014_orig.jpeg",
     "Media/Images/would-you-001.jpeg",
     "Media/Images/220px-The_Blue_Marble_%28remastered%29.jpg",
-    "Media/Images",
     "220px-The_Blue_Marble_%28remastered%29.jpg",
     "kratky-images-005_orig.jpeg",
     "kratky-images-016.jpeg",
