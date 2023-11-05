@@ -11,12 +11,8 @@
             "id": "be9b4f9a8616d9b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Web/Jesus Christ.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,14 +81,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Web/Jesus Christ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Web/Jesus Christ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "The Web/Jesus Christ.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,17 +139,28 @@
   },
   "active": "be9b4f9a8616d9b5",
   "lastOpenFiles": [
+    "The Web/Natural/Off Grid/off grid.md",
+    "The Web/Natural/Off Grid/Secure Scuttlebutt/Secure Scuttlebutt.md",
+    "The Web/Natural/Off Grid/Secure Scuttlebutt",
+    "The Web/Jesus Christ.md",
+    "The Web/Supernatural/Supernatural.md",
+    "The Web/The Church/Theologians/theologian.md",
+    "The Web/The Church/Parish/Minimum Viable Parochial Structure.md",
+    "The Web/Sacred Scripture/Sacred Scripture.md",
+    "The Web/The Church/Church.md",
+    "The Web/God.md",
+    "The Web/Natural/nature.md",
+    "The Web/The Church/Parish/parish.md",
+    "Church.md",
+    "The Web/The Church/Parish",
     "Electricity - Wikipedia/170px-M_Faraday_Th_Phillips_oil_1842.jpg.md",
     "Electricity - Wikipedia",
     "The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 02.md",
     "The Web/Sacred Scripture/Vulgate/Vulgateindex.md",
     "The Web/Sacred Scripture/Vulgate/Genesis/Chapter 01.md",
     "The Web/Sacred Scripture/Vulgate/Vulgate.md",
-    "The Web/Sacred Scripture/Sacred Scripture.md",
-    "The Web/Jesus Christ.md",
     "The Web/Sacred Scripture/Douay-Rheims/Douay-Rheimsindex.md",
     "The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 03.md",
-    "The Web/God.md",
     "The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 10.md",
     "The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 09.md",
     "The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 08.md",
@@ -165,15 +168,6 @@
     "The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 06.md",
     "The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 05.md",
     "The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 04.md",
-    "The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 01.md",
-    "The Web/Sacred Scripture/Douay-Rheims/Douay-Rheims.md",
-    "The Web/Natural/Off Grid/100 Rabbits/100 Rabbits.md",
-    "The Web/Natural/electricity.md",
-    "The Web/Natural/earth.md",
-    "The Web/Natural/Off Grid/100 Rabbits/Off the Grid.md",
-    "The Web/Natural/Off Grid/off grid.md",
-    "The Web/Natural/vegetable.md",
-    "The Web/Natural/nature.md",
     "100R — off the grid",
     "The Web/Natural/Off Grid/100 Rabbits",
     "The Web/Natural/Off Grid",
@@ -181,8 +175,6 @@
     "Techpriest_Wiki/Media/Ebooks",
     "Techpriest_Wiki/Media",
     "Techpriest_Wiki",
-    "The Web/The Church/Theologians",
-    "The Web/The Church",
     "Media/Images/kratky-images-005_orig.jpeg",
     "Media/Images/kratky-images-016.jpeg",
     "Media/Images/kratky-images-6_orig.jpg",

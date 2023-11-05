@@ -1,0 +1,13 @@
+**Secure Scuttlebutt** (**SSB**) is a peer-to peer communication protocol, mesh network, and self-hosted social media ecosystem. Each user hosts their own content and the content of the peers they follow, which provides fault tolerance and eventual consistency. Messages are digitally signed and added to an append-only list of messages published by an author. SSB is primarily used for implementing distributed social networks, and utilizes cryptography to assure that content remains unforged as it is propagated through the network.
+
+In contrast to the major corporate social media platforms, user data and content on Secure Scuttlebutt is not monetized, there are no software design decisions being made in order to maximize user engagement or boost marketing metrics, and there is no paid advertising. According to _Forbes_, "Scuttlebutt itself isn't supported by venture capital. Instead ... Scuttlebutt is backed by grants that helped jump-start the process ... \[and\] there are now hundreds of users who personally donate to the cause and an estimated 30,000 people using one of at least six social networks on the protocol".
+
+## History
+
+SSB was created by Dominic Tarr in 2014 as part of experimental development in alternative databases and distributed systems. Tarr lived on a sailboat with unreliable internet connection, and became interested in creating an offline-friendly secure gossip protocol for social networking. The word scuttlebutt is slang for "water-cooler gossip" among sailors. SSB gained popularity on the wave of privacy controversies raising against the traditional social media.
+
+## Protocol
+
+Secure Scuttlebutt operates as a database of immutable append-only feeds, which allows resilient replication over the Internet, local area networks, and sneakernets. Messages are hashed with SHA256 and verified with an Ed25519 signature; this makes it impossible to forge a message without the private key of the author. Users only download messages from peers that they follow (and optionally friends of friends), which prevents harassment and spam. This makes the network invite-only, meaning that new peers who join the network aren't visible until someone follows them.
+
+User content in SSB is organized as an append-only sequence of immutable messages, where messages cryptographically sign adjacent messages for the purpose of guaranteeing unforgeabilitity of the sequences as they are replicated to other peers. SSB peers exchange asymmetric keys and establish authenticated connections between each other using an Authenticated Key Exchange protocol, _Secret Handshake_.
