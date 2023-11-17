@@ -48,7 +48,7 @@ Illich died on 2 December 2002 in Bremen, Germany. Not realised was his last wis
 
 Illich followed the tradition of apophatic theology. His lifework's leading thesis is that Western modernity, perverting Christianity, corrupts Western Christianity. A perverse attempt to encode the New Testament's principles as rules of behavior, duty, or laws, and to institutionalize them, without limits, is a corruption that Illich detailed in his analyses of modern Western institutions, including education, charity, and medicine, among others. Illich often used the Latin phrase _Corruptio optimi quae est pessima_, in English _The corruption of the best is the worst_.
 
-Illich believed that the Biblical God taking human form, the Incarnation, marked world history's turning point, opening new possibilities for love and knowledge. As in the First Epistle of John, it invites any believer to seek God's face in everyone encountered. Describing this new possibility for love, Illich refers to the Parable of the Good Samaritan.
+Illich believed that the Biblical [[God]] taking human form, the Incarnation, marked world history's turning point, opening new possibilities for love and knowledge. As in the First Epistle of John, it invites any believer to seek [[God]]'s face in everyone encountered. Describing this new possibility for love, Illich refers to the Parable of the Good Samaritan.
 
 ## Influence
 
@@ -218,7 +218,7 @@ Cayley’s book benefits from his long personal acquaintance and countless conve
 
 Illich was a purveyor of impossible truths, truths so radical that they questioned the very foundations of modern certitudes — progress, economic growth, health, education, mobility. While he was not wrong, we had all been riding on a train going in the opposite direction for so long that it was hard to see how, in any practical sense, the momentum could ever be stalled. And that was his point. Now that “the shadow our future throws” of which Illich warned is darkening the skies of the present, it is time to reconsider his thought.
 
-Illich’s central contention was that persons are relational beings embedded in a matrix of the natural cosmos, convivial community with others and, as a fallen but still faithful priest, God’s grace. As the maverick thinker saw it, Western modernity rent asunder this multidimensional oneness of “Life.” 
+Illich’s central contention was that persons are relational beings embedded in a matrix of the natural cosmos, convivial community with others and, as a fallen but still faithful priest, [[God]]’s grace. As the maverick thinker saw it, Western modernity rent asunder this multidimensional oneness of “Life.” 
 
 For Illich, 17th-century science departed from the past by privileging the role of humans in the cosmos as above and apart from all other being. In doing so, it effectively declared “the death of nature,” turning it into a “resource” to feed the “pleonexia,” or radical greed, which fueled “development” and “progress” that transmuted endless “wants” into “needs.” 
 

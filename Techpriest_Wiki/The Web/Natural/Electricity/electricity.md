@@ -9,7 +9,7 @@ Electricity is at the heart of many modern technologies, being used for:
 -   Electric power where electric current is used to energise equipment;
 -   Electronics which deals with electrical circuits that involve active electrical components such as vacuum tubes, transistors, diodes and integrated circuits, and associated passive interconnection technologies.
 
-Electrical phenomena have been studied since antiquity, though progress in theoretical understanding remained slow until the 17th and 18th centuries. The theory of electromagnetism was developed in the 19th century, and by the end of that century electricity was being put to industrial and residential use by electrical engineers. The rapid expansion in electrical technology at this time transformed industry and society, becoming a driving force for the Second Industrial Revolution. Electricity's extraordinary versatility means it can be put to an almost limitless set of applications which include transport, heating, lighting, communications, and computation. Electrical power is now the backbone of modern industrial society.
+Electrical phenomena have been studied since antiquity, though progress in theoretical understanding remained slow until the 17th and 18th centuries. The theory of electromagnetism was developed in the 19th century, and by the end of that century electricity was being put to industrial and residential use by electrical engineers. The rapid expansion in electrical technology at this time transformed industry and society, becoming a driving force for the Second Industrial Revolution. Electricity's extraordinary versatility means it can be put to an almost limitless set of applications which include transport, heating, lighting, communications, and [[computation]]. Electrical power is now the backbone of modern industrial society.
 
 ## History
 
@@ -161,7 +161,7 @@ The invention in the late nineteenth century of the transformer meant that elect
 
 Normally, demand of electricity must match the supply, as storage of electricity is difficult. A certain amount of generation must always be held in reserve to cushion an electrical grid against inevitable disturbances and losses. With increasing levels of variable renewable energy (wind and solar energy) in the grid, it has become more challenging to match supply and demand. Storage plays an increasing role in bridging that gap. There are four types of energy storage technologies, each in varying states of technology readiness: batteries (electrochemical storage), chemical storage such as hydrogen, thermal or mechanical (such as pumped hydropower).
 
-Those who wish to go truly "[[off grid]]" end up creating tiny personal grids, which have the same challenges outlined above.
+Those who wish to go truly "[[off grid]]" end up creating [[tiny personal grid]]s, which have the same challenges outlined above.
 
 ### Applications
 
