@@ -11,8 +11,12 @@
             "id": "be9b4f9a8616d9b5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "index.md"
+              }
             }
           }
         ]
@@ -140,6 +148,7 @@
   },
   "active": "be9b4f9a8616d9b5",
   "lastOpenFiles": [
+    "Media/Images/LogGit logo.jpeg",
     "The Web/The Church/Controversies/Scripture Copyright/Free the Word.md",
     "index.md",
     "2023-11-16.md",
