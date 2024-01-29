@@ -4,3 +4,4 @@ Theologians use various forms of analysis and argument to help understand, expla
 
 ## Famous Theologians
 - [[Ivan Illich]]
+- [Peter Maurin](Peter%20Maurin.md)

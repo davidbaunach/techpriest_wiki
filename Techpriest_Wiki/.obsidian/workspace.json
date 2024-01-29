@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Web/Jesus Christ.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Web/Jesus Christ.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Web/Jesus Christ.md"
+                "file": "index.md"
               }
             }
           }
@@ -147,50 +147,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "23b364a162ecbc8f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "cc1d6e1815fc863c",
-        "type": "window",
-        "children": [
-          {
-            "id": "3e00f4073a6896de",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "99e34cf5f429d4a7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "The Web/Jesus Christ.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 618,
-        "y": 242,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "99e34cf5f429d4a7",
+  "active": "be9b4f9a8616d9b5",
   "lastOpenFiles": [
+    "The Web/The Church/Theologians/Peter Maurin.md",
+    "The Web/The Church/Theologians/theologian.md",
+    "index.md",
+    "The Web/Jesus Christ.md",
     "The Web/God.md",
     "The Web/The Church/priesthood.md",
     "The Web/The Church/Church.md",
     "The Web/The Church/Voluntary Organizations/Saint Maker.md",
-    "The Web/The Church/Theologians/theologian.md",
     "The Web/The Church/Theologians/Ivan Illich.md",
     "The Web/The Church/Saints/saint.md",
     "The Web/The Church/Parish/parish.md",
@@ -209,9 +175,6 @@
     "The Web/Sacred Scripture/Vulgate/Genesis/Chapter 46.md",
     "The Web/Sacred Scripture/Vulgate/Genesis/Chapter 45.md",
     "The Web/Sacred Scripture/Vulgate/Genesis/Chapter 44.md",
-    "The Web/Sacred Scripture/Vulgate/Genesis/Chapter 43.md",
-    "The Web/Sacred Scripture/Vulgate/Genesis/Chapter 42.md",
-    "The Web/Sacred Scripture/Vulgate/Genesis/Chapter 41.md",
     "Media/Images/LogGit logo.jpeg",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
