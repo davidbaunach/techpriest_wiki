@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Web/Jesus Christ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "033f34350997ff1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Web/The Church/Theologians/Peter Maurin.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Web/The Church/Theologians/Peter Maurin.md",
+                "file": "The Web/The Church/Theologians/theologian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Web/The Church/Theologians/Peter Maurin.md",
+                "file": "The Web/The Church/Theologians/theologian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Web/The Church/Theologians/Peter Maurin.md"
+                "file": "The Web/The Church/Theologians/theologian.md"
               }
             }
           }
@@ -160,17 +147,52 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "033f34350997ff1e",
+  "floating": {
+    "id": "76ca5bf6c320521b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "72498bbaffe3c6d5",
+        "type": "window",
+        "children": [
+          {
+            "id": "056bf073d2f01134",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cc6ac38644d5c1d4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "The Web/The Church/Theologians/theologian.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 510,
+        "y": 555,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "cc6ac38644d5c1d4",
   "lastOpenFiles": [
-    "The Web/The Church/Church.md",
-    "The Web/Jesus Christ.md",
-    "The Web/Natural/Electricity/Off Grid/off grid.md",
-    "The Web/Natural/Electricity/Off Grid/sneakernet.md",
+    "The Web/The Church/Theologians/Peter Maurin.md",
     "index.md",
     "The Web/The Church/Theologians/theologian.md",
-    "The Web/The Church/Theologians/Peter Maurin.md",
+    "The Web/Jesus Christ.md",
     "The Web/God.md",
     "The Web/The Church/priesthood.md",
+    "The Web/The Church/Church.md",
     "The Web/The Church/Voluntary Organizations/Saint Maker.md",
     "The Web/The Church/Theologians/Ivan Illich.md",
     "The Web/The Church/Saints/saint.md",
@@ -188,6 +210,8 @@
     "The Web/Sacred Scripture/Vulgate/Genesis/Chapter 48.md",
     "The Web/Sacred Scripture/Vulgate/Genesis/Chapter 47.md",
     "The Web/Sacred Scripture/Vulgate/Genesis/Chapter 46.md",
+    "The Web/Sacred Scripture/Vulgate/Genesis/Chapter 45.md",
+    "The Web/Sacred Scripture/Vulgate/Genesis/Chapter 44.md",
     "Media/Images/LogGit logo.jpeg",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
