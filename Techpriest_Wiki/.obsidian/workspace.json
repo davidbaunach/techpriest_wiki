@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "be9b4f9a8616d9b5",
+            "id": "033f34350997ff1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "033f34350997ff1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Web/The Church/Theologians/Peter Maurin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Web/The Church/Theologians/Peter Maurin.md",
+                "file": "The Web/Jesus Christ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Web/The Church/Theologians/Peter Maurin.md",
+                "file": "The Web/Jesus Christ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Web/The Church/Theologians/Peter Maurin.md"
+                "file": "The Web/Jesus Christ.md"
               }
             }
           }
@@ -162,11 +149,12 @@
   },
   "active": "033f34350997ff1e",
   "lastOpenFiles": [
+    "The Web/Jesus Christ.md",
+    "The Web/Natural/Anarchy.md",
+    "The Web/The Church/Theologians/Peter Maurin.md",
     "The Web/Natural/Electricity/Off Grid/sneakernet.md",
     "The Web/Natural/Electricity/Off Grid/off grid.md",
-    "The Web/The Church/Theologians/Peter Maurin.md",
     "The Web/The Church/Church.md",
-    "The Web/Jesus Christ.md",
     "index.md",
     "The Web/The Church/Theologians/theologian.md",
     "The Web/God.md",
@@ -187,7 +175,6 @@
     "The Web/Sacred Scripture/Vulgate/Genesis/Chapter 49.md",
     "The Web/Sacred Scripture/Vulgate/Genesis/Chapter 48.md",
     "The Web/Sacred Scripture/Vulgate/Genesis/Chapter 47.md",
-    "The Web/Sacred Scripture/Vulgate/Genesis/Chapter 46.md",
     "Media/Images/LogGit logo.jpeg",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
