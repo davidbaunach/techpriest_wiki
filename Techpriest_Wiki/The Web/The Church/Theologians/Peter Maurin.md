@@ -286,7 +286,7 @@ Shouting With Rotarians
      "Your dollar is your best friend".
 
 
-Catholic Worker Philosophy
+[Catholic Worker](Catholic%20Worker.md) Philosophy
 Christianity Untried
 
 1. Chesterton says:

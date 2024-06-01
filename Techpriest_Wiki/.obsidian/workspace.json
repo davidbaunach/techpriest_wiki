@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Web/Jesus Christ.md",
+                "file": "The Web/The Church/Theologians/theologian.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Web/Jesus Christ.md",
+                "file": "The Web/The Church/Theologians/theologian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Web/Jesus Christ.md",
+                "file": "The Web/The Church/Theologians/theologian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Web/Jesus Christ.md"
+                "file": "The Web/The Church/Theologians/theologian.md"
               }
             }
           }
@@ -155,9 +155,11 @@
     "The Web/The Church/priesthood.md",
     "The Web/The Church/Church.md",
     "The Web/The Church/Voluntary Organizations/Saint Maker.md",
+    "The Web/The Church/Voluntary Organizations/Catholic Worker.md",
     "The Web/The Church/Theologians/theologian.md",
     "The Web/The Church/Theologians/Peter Maurin.md",
     "The Web/The Church/Theologians/Ivan Illich.md",
+    "The Web/The Church/Theologians/Dorothy Day.md",
     "The Web/The Church/Saints/saint.md",
     "The Web/The Church/Parish/parish.md",
     "The Web/The Church/Parish/Minimum Viable Parochial Structure.md",
@@ -173,8 +175,6 @@
     "The Web/Sacred Scripture/Vulgate/Genesis/Chapter 48.md",
     "The Web/Sacred Scripture/Vulgate/Genesis/Chapter 47.md",
     "The Web/Sacred Scripture/Vulgate/Genesis/Chapter 46.md",
-    "The Web/Sacred Scripture/Vulgate/Genesis/Chapter 45.md",
-    "The Web/Sacred Scripture/Vulgate/Genesis/Chapter 44.md",
     "Media/Images/LogGit logo.jpeg",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
