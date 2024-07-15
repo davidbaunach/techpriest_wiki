@@ -1,4 +1,4 @@
-Welcome to the Techpriest Wiki!
+Welcome to the Techpriest Wiki! test
 
 All parts by me are CCO ([[Creative Commons Licenses]])
 Any article archived here maintains the license of the author/writer/artist
