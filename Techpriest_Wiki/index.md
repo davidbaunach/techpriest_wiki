@@ -7,3 +7,5 @@ Begin here, go anywhere:
 [[Jesus Christ]]
 
 ![[LogGit logo.jpeg]]   https://github.com/davidbaunach/techpriest_wiki.git
+
+Suggest an edit: https://github.com/davidbaunach/techpriest_wiki
