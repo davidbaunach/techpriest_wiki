@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Techpriest_Wiki/index.md",
+                "file": "Techpriest_Wiki/The Web/Sacred Scripture/Catholic Public Domain Version/The_Sacred_Bible.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Techpriest_Wiki/index.md",
+                "file": "Techpriest_Wiki/The Web/Sacred Scripture/Catholic Public Domain Version/The_Sacred_Bible.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Techpriest_Wiki/index.md",
+                "file": "Techpriest_Wiki/The Web/Sacred Scripture/Catholic Public Domain Version/The_Sacred_Bible.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Techpriest_Wiki/index.md"
+                "file": "Techpriest_Wiki/The Web/Sacred Scripture/Catholic Public Domain Version/The_Sacred_Bible.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "2d15fe5d3bb9b005",
   "lastOpenFiles": [
-    "Techpriest_Wiki/The Web/Sacred Scripture/Catholic Public Domain Version/The_Sacred_Bible.md",
     "Techpriest_Wiki/index.md",
+    "Techpriest_Wiki/The Web/Sacred Scripture/Catholic Public Domain Version/The_Sacred_Bible.md",
     "Techpriest_Wiki/The Web/Sacred Scripture/Catholic Public Domain Version"
   ]
 }
