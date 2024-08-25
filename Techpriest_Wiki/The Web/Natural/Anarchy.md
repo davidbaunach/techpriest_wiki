@@ -81,3 +81,7 @@ We see this mutual cooperation, which brings great joy, and makes difficulties b
 Conviviality, when it happens, is the breaking-in of the Kingdom of God into this brutal and fallen world. Convivial action brings light and peace, in a cancerous way destroying the darkness and distress that haunts our daily life.
 
 Where charity and love prevail, there God is ever found.
+
+
+Other works relating to Anarchism:
+[[Initial Findings in my Studies of Anarchism-The Human Mycelial Network]]
