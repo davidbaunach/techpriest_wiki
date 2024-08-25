@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Techpriest_Wiki/The Web/Sacred Scripture/Catholic Public Domain Version/The_Sacred_Bible.md",
+                "file": "Techpriest_Wiki/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Techpriest_Wiki/The Web/Sacred Scripture/Catholic Public Domain Version/The_Sacred_Bible.md",
+                "file": "Techpriest_Wiki/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Techpriest_Wiki/The Web/Sacred Scripture/Catholic Public Domain Version/The_Sacred_Bible.md",
+                "file": "Techpriest_Wiki/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Techpriest_Wiki/The Web/Sacred Scripture/Catholic Public Domain Version/The_Sacred_Bible.md"
+                "file": "Techpriest_Wiki/index.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,13 +143,40 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "2d15fe5d3bb9b005",
   "lastOpenFiles": [
+    "README.md",
     "Techpriest_Wiki/index.md",
-    "Techpriest_Wiki/The Web/Sacred Scripture/Catholic Public Domain Version/The_Sacred_Bible.md",
+    "Techpriest_Wiki/The Web/Jesus Christ.md",
+    "Techpriest_Wiki/The Web/God.md",
+    "Techpriest_Wiki/The Web/The Church/priesthood.md",
+    "Techpriest_Wiki/The Web/The Church/Church.md",
+    "Techpriest_Wiki/The Web/The Church/Voluntary Organizations/Saint Maker.md",
+    "Techpriest_Wiki/The Web/The Church/Voluntary Organizations/Catholic Worker.md",
+    "Techpriest_Wiki/The Web/The Church/Theologians/theologian.md",
+    "Techpriest_Wiki/The Web/The Church/Theologians/Peter Maurin.md",
+    "Techpriest_Wiki/The Web/The Church/Theologians/Ivan Illich.md",
+    "Techpriest_Wiki/The Web/The Church/Theologians/Dorothy Day.md",
+    "Techpriest_Wiki/The Web/The Church/Saints/saint.md",
+    "Techpriest_Wiki/The Web/The Church/Parish/parish.md",
+    "Techpriest_Wiki/The Web/The Church/Parish/Minimum Viable Parochial Structure.md",
+    "Techpriest_Wiki/The Web/The Church/Controversies/Controversies.md",
+    "Techpriest_Wiki/The Web/The Church/Controversies/Scripture Copyright/Scripture Copyright.md",
+    "Techpriest_Wiki/The Web/The Church/Controversies/Scripture Copyright/Free the Word.md",
+    "Techpriest_Wiki/The Web/Supernatural/Supernatural.md",
+    "Techpriest_Wiki/The Web/Sacred Scripture/Sacred Scripture.md",
+    "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Vulgateindex.md",
+    "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Vulgate.md",
+    "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 50.md",
+    "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 49.md",
+    "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 48.md",
+    "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 47.md",
+    "Untitled.canvas",
+    "Techpriest_Wiki/The Web/Natural/Anarchism",
     "Techpriest_Wiki/The Web/Sacred Scripture/Catholic Public Domain Version"
   ]
 }
