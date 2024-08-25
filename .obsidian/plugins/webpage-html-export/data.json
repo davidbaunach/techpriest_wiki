@@ -1,7 +1,7 @@
 {
   "settingsVersion": "1.8.01",
   "makeOfflineCompatible": true,
-  "inlineAssets": false,
+  "inlineAssets": true,
   "includePluginCSS": "",
   "includeSvelteCSS": true,
   "titleProperty": "title",
@@ -16,20 +16,20 @@
   "allowResizingSidebars": true,
   "logLevel": "warning",
   "minifyHTML": false,
-  "makeNamesWebStyle": true,
+  "makeNamesWebStyle": false,
   "onlyExportModified": false,
   "deleteOldFiles": true,
   "addThemeToggle": true,
   "addOutline": true,
   "addFileNav": true,
-  "addSearchBar": true,
-  "addGraphView": true,
+  "addSearchBar": false,
+  "addGraphView": false,
   "addTitle": true,
   "addRSSFeed": true,
   "siteURL": "https://wiki.davidbaunach.com/index.html/",
   "authorName": "techpriest_baunach",
   "vaultTitle": "techpriest_wiki",
-  "exportPreset": "website",
+  "exportPreset": "documents",
   "openAfterExport": true,
   "graphAttractionForce": 1,
   "graphLinkLength": 10,
@@ -46,7 +46,9 @@
   "exportPath": "/home/techpriest/Documents/GitHub/publish_wiki",
   "filesToExport": [
     [
-      "Techpriest_Wiki"
+      "Techpriest_Wiki/Media",
+      "Techpriest_Wiki/The Web",
+      "Techpriest_Wiki/index.md"
     ]
   ]
 }
